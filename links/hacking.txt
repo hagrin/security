@@ -1,5 +1,10 @@
 # Links
 
+## Decompiler
+
+Ghidra - https://github.com/NationalSecurityAgency/ghidra/releases
+IDA - https://hex-rays.com/ida-free/
+
 ## HEX Editors
 
 Hiew - http://www.hiew.ru/#hiew - Hacker's View
