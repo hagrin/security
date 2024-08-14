@@ -8,3 +8,4 @@ IDA - https://hex-rays.com/ida-free/
 ## HEX Editors
 
 Hiew - http://www.hiew.ru/#hiew - Hacker's View
+ImHex - https://github.com/WerWolv/ImHex
