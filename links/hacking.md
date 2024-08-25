@@ -2,6 +2,7 @@
 
 ## Debugger
 
+LLDB Debugger - https://lldb.llvm.org/<br />
 x64dbg - https://x64dbg.com/<br />
 
 ## Decompiler
