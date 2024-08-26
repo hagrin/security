@@ -1,7 +1,7 @@
 # Links
 
 It all starts here -<br />
-OSINT Framework - https://osintframework.com/<br /<br />
+OSINT Framework - https://osintframework.com/<br /><br />
 
 Bellingcat's Online Investigation Toolkit - https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit?gid=930747607#gid=930747607
 osintui - https://github.com/wssheldon/osintui - Open Source Intelligence Terminal User Interface (requires Rust)
