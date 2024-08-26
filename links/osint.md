@@ -11,13 +11,13 @@ osintui - https://github.com/wssheldon/osintui - Open Source Intelligence Termin
 EagleEye - https://github.com/ThoughtfulDev/EagleEye - "You have at least one image of the person you are looking for and a clue about their name. You enter this data into EagleEye and it tries to find Instagram, Youtube, Facebook, and Twitter Profiles of this person."<br />
 PimEyes - https://pimeyes.com/ - Face Search Engine Reverse Image Search ($$$)<br />
 
+## Threat Hunting
+
+mihari - https://github.com/ninoseki/mihari - A query aggregator for OSINT based threat hunting.<br />
+
 ## Website History / OSINT
 
 BuiltWith - https://builtwith.com/ - Technology used on site<br />
 CompleteDNS - https://completedns.com/ - Research domain nameserver changes and drops ($$$)<br />
 ViewNDS.info - https://viewdns.info/dnsreport/ - DNS / IP history for a website, has Reverse Whois (has many other tools)<br />
 WHOXY - https://www.whoxy.com/ - Domain Search Engine (very basic info)<br />
-
-## Threat Hunting
-
-mihari - https://github.com/ninoseki/mihari - A query aggregator for OSINT based threat hunting.<br />
