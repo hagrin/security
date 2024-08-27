@@ -18,12 +18,12 @@ OKX<br />
 
 ## Forensics
 
-Chainalysis Reactor<br />
-BlocksSeer<br />
-CipherTrace<br />
 Bitfury Crystal - https://lite.crystalintelligence.com/ - Crystal Lite<br />
-https://www.blocktrace.com/ - BlockTrace<br />
-https://www.soliduslabs.com/ - Solidus Labs<br />
-https://www.scorechain.com/ - Scorechain<br />
+BlockTrace - https://www.blocktrace.com/<br />
+BlocksSeer<br />
+Chainalysis Reactor<br />
+CipherTrace<br />
+KYCP - https://www.kycp.org<br />
+Solidus Labs - https://www.soliduslabs.com/<br />
+Scorechain - https://www.scorechain.com/<br />
 TRM Labs<br />
-https://www.kycp.org - KYCP<br />
