@@ -14,3 +14,8 @@ IDA - https://hex-rays.com/ida-free/<br />
 
 Hiew - http://www.hiew.ru/#hiew - Hacker's View<br />
 ImHex - https://github.com/WerWolv/ImHex<br />
+
+## Tools
+
+Flipper Zero - https://flipperzero.one/<br />
+HackRF One - https://hackerwarehouse.com/product/hackrf-one-kit - should consider getting the PortaPack H2 as well to extend the capabilities - https://hackerwarehouse.com/product/portapack-h2-for-hackrf-one//<br />
