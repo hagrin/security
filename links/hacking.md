@@ -2,7 +2,7 @@
 
 ## Debugger
 
-dnSpy - https://github.com/dnSpy/dnSpy - .Net debugger and editor
+dnSpy - https://github.com/dnSpy/dnSpy - .Net debugger and editor<br />
 LLDB Debugger - https://lldb.llvm.org/<br />
 x64dbg - https://x64dbg.com/<br />
 
