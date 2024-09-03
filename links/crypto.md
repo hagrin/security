@@ -20,7 +20,7 @@ OKX<br />
 
 Bitfury Crystal - https://lite.crystalintelligence.com/ - Crystal Lite<br />
 BlockTrace - https://www.blocktrace.com/<br />
-BlocksSeer<br />
+DMG Blockchain Solutions (was previously better known as BlockSeer) - https://dmgblockchain.com/blockseer-2/<br />
 Chainalysis Reactor<br />
 CipherTrace<br />
 KYCP - https://www.kycp.org<br />
