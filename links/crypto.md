@@ -5,6 +5,7 @@
 DeFiLlama - https://defillama.com/<br />
 Dune - https://dune.com/home<br />
 Token Terminal - https://tokenterminal.com/terminal<br />
+Velo - https://velo.xyz/tradfi - TradFi stats, good for basis trade, CME OI<br />
 
 ## Exchanges
 
