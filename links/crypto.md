@@ -29,6 +29,10 @@ Solidus Labs - https://www.soliduslabs.com/<br />
 Scorechain - https://www.scorechain.com/<br />
 TRM Labs<br />
 
+$# Prediction Markets
+
+Polymarket - https://polymarket.com/<br />
+
 ## Treasuries
 
 https://treasuries.bitbo.io/#public<br />
