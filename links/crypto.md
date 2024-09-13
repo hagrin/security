@@ -36,3 +36,9 @@ Polymarket - https://polymarket.com/<br />
 ## Treasuries
 
 https://treasuries.bitbo.io/#public<br />
+
+## Altcoins
+
+### Solana
+
+RugCheck - https://rugcheck.xyz/<br />
