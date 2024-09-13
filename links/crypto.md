@@ -39,6 +39,10 @@ https://treasuries.bitbo.io/#public<br />
 
 ## Altcoins
 
+### Ethereum
+
+ETH ETF Flow Data - https://farside.co.uk/?p=1518<br />
+
 ### Solana
 
 RugCheck - https://rugcheck.xyz/<br />
