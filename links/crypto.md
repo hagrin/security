@@ -34,6 +34,10 @@ TRM Labs<br />
 
 Polymarket - https://polymarket.com/<br />
 
+## Sidechains / L2s
+
+L2 Watch - https://l2.watch/ - list of L2s, their status, their fundraising. Has some TVL, but seems somewhat incomplete<br />
+
 ## Treasuries
 
 https://treasuries.bitbo.io/#public<br />
