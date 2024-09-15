@@ -2,6 +2,7 @@
 
 ## Data Analytics
 
+Bold Report - https://bold.report/bitcoin/fund-flows - BTC ETF Flows Data (more summarized than Farside)<br />
 DeFiLlama - https://defillama.com/<br />
 Dune - https://dune.com/home<br />
 JungleBeat - https://junglebeat.replit.app/ - App Store ranking data, Google Trends<br />
