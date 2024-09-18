@@ -16,6 +16,10 @@ IDA - https://hex-rays.com/ida-free/<br />
 Hiew - http://www.hiew.ru/#hiew - Hacker's View<br />
 ImHex - https://github.com/WerWolv/ImHex<br />
 
+## Mobile Devices
+
+Octoplus - https://octoplusbox.com/en/products/dongle/ - ($$$) decoding mobile devices, dongles<br />
+
 ## Tools
 
 Flipper Zero - https://flipperzero.one/<br />
