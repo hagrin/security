@@ -1,3 +1,5 @@
+# Tor Security Related Info / Stories
+
 QUANTUMINSERT - "Using upstream collection of data, the NSA created a database of Tor users – which is easy to achieve, as by design all Tor clients should look the same. To distinguish individual users QUANTUM analysed each system it detected, and produced software-hardware ‘fingerprints’ of system configuration."
 
 1) It's "self-selecting". With the "pervasive surveillance" that is utilized specifically by the NSA and other entities, entering into the Tor network effectively puts you in a huge network corral.  
