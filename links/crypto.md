@@ -1,9 +1,15 @@
 # Cryptocurrency Links
 
-## Data Analytics
+## Bitcoin
 
 Bold Report - https://bold.report/bitcoin/fund-flows - BTC ETF Flows Data (more summarized than Farside)<br />
+Farside - https://farside.co.uk/btc/ - BTC ETF flows<br />
+mempool.space - https://mempool.space/ - BTC mempool visualizer<br />
+
+## Data Analytics
+
 DeFiLlama - https://defillama.com/<br />
+DeveloperReport - https://www.developerreport.com/ - analytics on crypto developers<br />
 Dune - https://dune.com/home<br />
 JungleBeat - https://junglebeat.replit.app/ - App Store ranking data, Google Trends<br />
 MSTR Tracker - https://mstr-tracker.com/ - data relating to Microstrategy's stock, especially the NAV premium<br />
