@@ -11,6 +11,7 @@ mempool.space - https://mempool.space/ - BTC mempool visualizer<br />
 DeFiLlama - https://defillama.com/<br />
 DeveloperReport - https://www.developerreport.com/ - analytics on crypto developers<br />
 Dune - https://dune.com/home<br />
+FrostyMetrics - https://frostymetrics.com/<br />
 JungleBeat - https://junglebeat.replit.app/ - App Store ranking data, Google Trends<br />
 MSTR Tracker - https://mstr-tracker.com/ - data relating to Microstrategy's stock, especially the NAV premium<br />
 Token Terminal - https://tokenterminal.com/terminal<br />
