@@ -2,6 +2,7 @@
 
 ## Bitcoin
 
+Bitbo - https://bitbo.io/ - Bitcoin stats (basic / quick)<br />
 Bold Report - https://bold.report/bitcoin/fund-flows - BTC ETF Flows Data (more summarized than Farside)<br />
 Farside - https://farside.co.uk/btc/ - BTC ETF flows<br />
 mempool.space - https://mempool.space/ - BTC mempool visualizer<br />
@@ -38,6 +39,10 @@ KYCP - https://www.kycp.org<br />
 Solidus Labs - https://www.soliduslabs.com/<br />
 Scorechain - https://www.scorechain.com/<br />
 TRM Labs<br />
+
+## Ordinals
+
+Magic Eden - https://magiceden.us/<br />
 
 ## Prediction Markets
 
