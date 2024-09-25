@@ -20,6 +20,10 @@ ImHex - https://github.com/WerWolv/ImHex<br />
 
 Octoplus - https://octoplusbox.com/en/products/dongle/ - ($$$) decoding mobile devices, dongles<br />
 
+## Proxy
+
+Burp - https://portswigger.net/burp/communitydownload - Community Edition is free, there are paid versions that do much more<br />
+
 ## Tools
 
 Flipper Zero - https://flipperzero.one/<br />
