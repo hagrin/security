@@ -2,6 +2,12 @@
 
 Just some really, really basic windows commands for doing some very basic security functions.
 
+## Active Directory 
+
+BloodHound<br />
+PingCastle<br />
+PurpleKnight<br />
+
 ## Patching
 
 winget upgrade
