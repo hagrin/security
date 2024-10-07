@@ -17,6 +17,8 @@ Len Sassaman
 Nick Szabo
 
 NSA
+- Pro: The main crux of the NSA theory comes from the publishing of the 1996 paper "How to Make a Mint: The Cryptography of Anonymous Electronic Cash" which you can read here - https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/1996-Cryptography-Anonymous-Cash.pdf
+- Cons: The paper describes a system that is more similar to David Chaum's prior attempt than it does bitcoin. 
 
 Paul Le Roux
 
