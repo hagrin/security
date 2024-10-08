@@ -45,6 +45,7 @@ Get absolutely rekt you freaking loser.
 # Satoshi Facts
 
 - Known email addresses:
+  - satoshi@vistomail.com
   - satoshin@gmx.net
   - satoshin@gmx.com (which was likely compromised / hacked)
 - Possible IP used from California - https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/
