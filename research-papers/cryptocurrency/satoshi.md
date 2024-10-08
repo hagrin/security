@@ -4,6 +4,11 @@ Rumored potential Satoshis. This list isn't meant to be all encompassing, but ma
 
 Adam Back
 
+Craig Wright
+
+Get absolutely rekt you freaking loser.
+![image](https://github.com/user-attachments/assets/eb328f86-db0b-4179-94dc-bc04f650e4ef)
+
 Hal Finney
 
 Len Sassaman
