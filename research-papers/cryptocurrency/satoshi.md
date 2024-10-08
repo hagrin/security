@@ -44,5 +44,9 @@ Get absolutely rekt you freaking loser.
 
 # Satoshi Facts
 
+- Known email addresses:
+  - satoshin@gmx.net
+  - satoshin@gmx.com (which was likely compromised / hacked)
+- Possible IP used from California - https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/
 - Friends list from P2P Foundation hosted on ning.com
 ![image](https://github.com/user-attachments/assets/14e2a630-65aa-43ea-be4f-ce26f26fee8e)
