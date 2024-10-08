@@ -2,17 +2,17 @@
 
 Rumored potential Satoshis. This list isn't meant to be all encompassing, but maintained because I get this question a lot. The candidates are listed in some alphabetical order. While I understand the fascination with trying to figure out who Satoshi is, understand that by publishing anything saying "X person is Satoshi" puts that person and their family in physical danger. You should use extreme caution before publishing anything that attempts to definitively identify Satoshi's identity.<br /><br />
 
-Adam Back
+## Adam Back
 
-Craig Wright
+## Craig Wright
 
 Get absolutely rekt you freaking loser.
 
 ![image](https://github.com/user-attachments/assets/eb328f86-db0b-4179-94dc-bc04f650e4ef)
 
-Hal Finney
+## Hal Finney
 
-Len Sassaman
+## Len Sassaman
 - Pro: https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
 - Cons: Article leaves out all the evidence that doesn't point to Len including many tweets that were very critical of bitcoin. Article states that the laptops were inaccessible, there's contrary evidence that his wife Meredith was able to go through his laptops and no Satoshi evidence was found. This is disputed as there's evidence his data was encrypted with FileVault.
 
@@ -22,14 +22,14 @@ Len Sassaman
 ![image](https://github.com/user-attachments/assets/f9f94798-6d1a-4b40-8501-a8195a24b349)
 ![image](https://github.com/user-attachments/assets/0700c611-bee7-40f3-9803-39ce3ce4b0df)
 
-Nick Szabo
+## Nick Szabo
 
-NSA
+## NSA
 - Pro: The main crux of the NSA theory comes from the publishing of the 1996 paper "How to Make a Mint: The Cryptography of Anonymous Electronic Cash" which you can read here - https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/1996-Cryptography-Anonymous-Cash.pdf
 - Cons: The paper describes a system that is more similar to David Chaum's prior attempt than it does bitcoin. 
 
-Paul Le Roux
+## Paul Le Roux
 
-Tatsuaki Okamoto
+## Tatsuaki Okamoto
 
-Wei Dai
+## Wei Dai
