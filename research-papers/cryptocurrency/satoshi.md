@@ -3,6 +3,10 @@
 Rumored potential Satoshis. This list isn't meant to be all encompassing, but maintained because I get this question a lot. The candidates are listed in some alphabetical order. While I understand the fascination with trying to figure out who Satoshi is, understand that by publishing anything saying "X person is Satoshi" puts that person and their family in physical danger. You should use extreme caution before publishing anything that attempts to definitively identify Satoshi's identity.<br /><br />
 
 ## Adam Back
+- Pro:
+- Cons: At the Craig Wright trial, Adam submitted his correspondence with Satoshi into evidence - a total of 5 emails, Satoshi engaging Adam regarding a citation of his Hashcash paper and then some discussion about alternate whitepapers and the bitcoin whitepaper.
+
+![image](https://github.com/user-attachments/assets/a47987ec-e683-4bc2-b662-77ce888b9e22)
 
 ## Craig Wright
 
