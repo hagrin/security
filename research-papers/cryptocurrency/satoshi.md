@@ -37,3 +37,8 @@ Get absolutely rekt you freaking loser.
 ## Tatsuaki Okamoto
 
 ## Wei Dai
+
+# Satoshi Facts
+
+- Friends list from P2P Foundation hosted on ning.com
+![image](https://github.com/user-attachments/assets/14e2a630-65aa-43ea-be4f-ce26f26fee8e)
