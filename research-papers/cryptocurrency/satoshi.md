@@ -14,6 +14,10 @@ Get absolutely rekt you freaking loser.
 
 ![image](https://github.com/user-attachments/assets/eb328f86-db0b-4179-94dc-bc04f650e4ef)
 
+## Dustin D. Trammell
+
+- Cons: https://blog.dustintrammell.com/i-am-not-satoshi/ - written by himself where you can download his email correspondence with Satoshi. Dustin also debunks a flawed research paper written out of the Weizmann Institute of Science in Israel.
+
 ## Hal Finney
 
 ## Len Sassaman
