@@ -50,6 +50,8 @@ Get absolutely rekt you freaking loser.
 
 # Satoshi Facts
 
+- Key Satoshi Identity Papers
+  - https://arxiv.org/pdf/2206.10257 - 2022 paper by Jens Ducrée
 - Known email addresses:
   - satoshi@vistomail.com
   - satoshin@gmx.net
