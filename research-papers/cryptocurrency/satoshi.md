@@ -38,6 +38,8 @@ Get absolutely rekt you freaking loser.
 
 ## Paul Le Roux
 
+## Peter Todd
+
 ## Tatsuaki Okamoto
 
 ## Wei Dai
