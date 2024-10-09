@@ -44,6 +44,12 @@ Get absolutely rekt you freaking loser.
 
 ## Peter Todd
 
+- Pro: At age 15 in 2001, Peter Todd wrote the following - 
+
+![image](https://github.com/user-attachments/assets/6c3288e3-7ee8-43bf-9115-06606420ba18)
+
+Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
+
 ## Tatsuaki Okamoto
 
 ## Wei Dai
