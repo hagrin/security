@@ -19,6 +19,8 @@ Get absolutely rekt you freaking loser.
 - Cons: https://blog.dustintrammell.com/i-am-not-satoshi/ - written by himself where you can download his email correspondence with Satoshi. Dustin also debunks a flawed research paper written out of the Weizmann Institute of Science in Israel.
 
 ## Hal Finney
+- Pros:
+- Cons: https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/
 
 ## Len Sassaman
 - Pro: https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
