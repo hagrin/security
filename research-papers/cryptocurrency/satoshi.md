@@ -33,6 +33,7 @@ Get absolutely rekt you freaking loser.
 ![image](https://github.com/user-attachments/assets/0700c611-bee7-40f3-9803-39ce3ce4b0df)
 
 ## Nick Szabo
+- Pro: https://likeinamirror.wordpress.com/2013/12/01/satoshi-nakamoto-is-probably-nick-szabo/
 
 ## NSA
 - Pro: The main crux of the NSA theory comes from the publishing of the 1996 paper "How to Make a Mint: The Cryptography of Anonymous Electronic Cash" which you can read here - https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/1996-Cryptography-Anonymous-Cash.pdf
