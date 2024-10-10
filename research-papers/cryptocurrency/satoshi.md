@@ -32,6 +32,9 @@ Get absolutely rekt you freaking loser.
 ![image](https://github.com/user-attachments/assets/f9f94798-6d1a-4b40-8501-a8195a24b349)
 ![image](https://github.com/user-attachments/assets/0700c611-bee7-40f3-9803-39ce3ce4b0df)
 
+## James A. Donald (may be a pseudonym)
+- Pro: https://medium.com/quantum-economics/i-know-who-satoshi-nakamoto-is-a3059ef02c34
+
 ## Nick Szabo
 - Pro: https://likeinamirror.wordpress.com/2013/12/01/satoshi-nakamoto-is-probably-nick-szabo/
 - Cons: https://unenumerated.blogspot.com/2011/05/bitcoin-what-took-ye-so-long.html - Nick's personal response
