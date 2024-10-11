@@ -66,5 +66,6 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
   - satoshin@gmx.net
   - satoshin@gmx.com (which was likely compromised / hacked)
 - Possible IP used from California - https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/
+  - This is debated by Gmax here - https://news.ycombinator.com/item?id=41794080
 - Friends list from P2P Foundation hosted on ning.com
 ![image](https://github.com/user-attachments/assets/14e2a630-65aa-43ea-be4f-ce26f26fee8e)
