@@ -59,6 +59,7 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
 ## Tatsuaki Okamoto
 
 ## Wei Dai
+- Pro: https://zawy1.blogspot.com/2016/05/wei-dai-is-satoshi-nakamoto.html - linguistic based analysis matching highly to Wei Dai.
 
 # Satoshi Facts
 
