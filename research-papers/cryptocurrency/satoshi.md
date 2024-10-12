@@ -23,7 +23,9 @@ Get absolutely rekt you freaking loser.
 - Cons: https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/
 
 ## Len Sassaman
-- Pro: https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
+- Pros:
+  - https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
+  - Studied at Katholieke Universiteit Leuven which has direct ties to a rare text that only the library at this university has outside of symposium participants. A picture attributed to Len has been widely attributed as evidence due to him having a copy of a symposium book. However, as counterevidence, the book on the picture's shelf is of the 23rd Symposium in 2002 and not the 20th Symposium from 1999. Due to the nature that many top cypherpunks would have had access to these texts over the 9 year period, I hardly count this as definitive evidence of anything. 
 - Cons: Article leaves out all the evidence that doesn't point to Len including many tweets that were very critical of bitcoin. Article states that the laptops were inaccessible, there's contrary evidence that his wife Meredith was able to go through his laptops and no Satoshi evidence was found. This is disputed as there's evidence his data was encrypted with FileVault.
 
 ![image](https://github.com/user-attachments/assets/dd039b18-85bc-4ae6-8fc3-33b2f57502e0)
@@ -31,6 +33,7 @@ Get absolutely rekt you freaking loser.
 ![image](https://github.com/user-attachments/assets/56f21198-9d7c-4873-bca3-0b6935a135b8)
 ![image](https://github.com/user-attachments/assets/f9f94798-6d1a-4b40-8501-a8195a24b349)
 ![image](https://github.com/user-attachments/assets/0700c611-bee7-40f3-9803-39ce3ce4b0df)
+![488460964_2921c2b7ce_o](https://github.com/user-attachments/assets/7c2e4917-9fec-417a-9916-a08bfead82ff)
 
 ## James A. Donald (may be a pseudonym)
 - Pro: https://medium.com/quantum-economics/i-know-who-satoshi-nakamoto-is-a3059ef02c34
@@ -67,5 +70,6 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
   - satoshin@gmx.com (which was likely compromised / hacked)
 - Possible IP used from California - https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/
   - This is debated by Gmax here - https://news.ycombinator.com/item?id=41794080
+- The "Benelux" Reference - The 2nd reference in the Bitcoin Whitepaper references the "20th Symposium on Information Theory in the Benelux, May 1999". This reference has been highlighted by many as a key Satoshi identifier because 1) the book was allegedly only made available online starting 2020 and 2) printed copies were only made available to symposium participants and stored in the library at Katholieke Universiteit Leuven. Many notable cryptographers / cypherpunks studied there. 
 - Friends list from P2P Foundation hosted on ning.com
 ![image](https://github.com/user-attachments/assets/14e2a630-65aa-43ea-be4f-ce26f26fee8e)
