@@ -11,6 +11,10 @@ x64dbg - https://x64dbg.com/<br />
 Ghidra - https://github.com/NationalSecurityAgency/ghidra/releases<br />
 IDA - https://hex-rays.com/ida-free/<br />
 
+## Encoding / Decoding
+
+CyberChef - https://cyberchef.org/ - used for all types of operations, very useful site, GitHub can be found here - https://github.com/gchq/CyberChef<br />
+
 ## HEX Editors
 
 Hiew - http://www.hiew.ru/#hiew - Hacker's View<br />
