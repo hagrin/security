@@ -4,7 +4,7 @@ The following is an attempt to spell out as many angles of the MSTR trade as I p
 
 
 ### References
-
+Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
 22 Apr 2024 - https://www.youtube.com/watch?v=bUfVLzNdOyc - Saylor interview
 - Specifically, this clip here https://x.com/bleighky/status/1783551971682640241
 
