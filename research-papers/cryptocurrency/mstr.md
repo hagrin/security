@@ -7,4 +7,5 @@ The following is an attempt to spell out as many angles of the MSTR trade as I p
 
 22 Apr 2024 - https://www.youtube.com/watch?v=bUfVLzNdOyc - Saylor interview
 - Specifically, this clip here https://x.com/bleighky/status/1783551971682640241
+
 14 Oct 2024 - https://x.com/coryklippsten/status/1845943525021753801 - Excerpt of Lyn Alden's comments on MSTR in her paywalled newsletter
