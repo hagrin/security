@@ -24,6 +24,10 @@ ImHex - https://github.com/WerWolv/ImHex<br />
 
 Octoplus - https://octoplusbox.com/en/products/dongle/ - ($$$) decoding mobile devices, dongles<br />
 
+## Password Cracking
+
+Hashcat - https://hashcat.net/hashcat/<br />
+
 ## Proxy
 
 Burp - https://portswigger.net/burp/communitydownload - Community Edition is free, there are paid versions that do much more<br />
