@@ -2,6 +2,14 @@
 
 The following is an attempt to spell out as many angles of the MSTR trade as I possibly can. Warning - I do not feel comfortable writing on this topic because I feel like I maybe understand 90% of it and the last 10% is very likely to hold a lot of value. However, this has been a very requested topic; therefore, I am attempting to create a reference document.<br /><br />
 
+## Convertible Debt Conversion
+
+Saylor's idea here and the mechanics are the following -
+- Issue convertible debt
+- At the time of this issue, the conversion is accounted for immeditaely in the "implied outstanding shares"
+- By doing it this way, the BTC/ratio already accounts for debt conversion and dilution
+- If conversions happen, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC
+
 ### Facts
 
 "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter" - Source: https://x.com/BenWerkman/status/1847368302663716965
