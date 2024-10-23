@@ -14,6 +14,12 @@ Saylor's idea here and the mechanics are the following -
 - By doing it this way, the BTC/ratio already accounts for debt conversion and dilution
 - If conversions happen, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC
 
+## "Miscellaneous Trivia"
+
+Other factors to consider in the MSTR analysis - 
+- Switch to FASB accounting possible
+- Inclusion into Nasdaq indices
+
 ### Facts
 
 "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter" - Source: https://x.com/BenWerkman/status/1847368302663716965
