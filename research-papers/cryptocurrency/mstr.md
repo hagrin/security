@@ -17,7 +17,7 @@ Saylor's idea here and the mechanics are the following -
 ## "Miscellaneous Trivia"
 
 Other factors to consider in the MSTR analysis - 
-- Switch to FASB accounting possible
+- Switch to FASB accounting still pending
 - Inclusion into Nasdaq indices
 
 ### Facts
@@ -28,6 +28,6 @@ Other factors to consider in the MSTR analysis -
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
 22 Apr 2024 - https://www.youtube.com/watch?v=bUfVLzNdOyc - Saylor interview
 - Specifically, this clip here https://x.com/bleighky/status/1783551971682640241
-
+6 July 2024 - https://x.com/startupseb_/status/1809641462667039190 - Thread on why the FASB rule change at MSTR
 14 Oct 2024 - https://x.com/coryklippsten/status/1845943525021753801 - Excerpt of Lyn Alden's comments on MSTR in her paywalled newsletter<br />
 18 Oct 2024 - https://x.com/BenWerkman/status/1847368302663716965 - tweet about the 130% rule
