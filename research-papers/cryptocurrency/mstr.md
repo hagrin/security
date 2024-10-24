@@ -15,6 +15,10 @@ MSTR has several levers to use or raise funds to buy more BTC for their treasury
 
 The ATM equity offerings are particularly interesting here because it feeds one specific narrative. For most traditional companies, when you do ATMs, you're usually raising capital for either CapEx (capital expenditures) or OpEx (operational expenditures) with the purpose of keeping the company moving forward, but while diluting current shareholders. With the MSTR shareholders, these ATM raises are being used to add to the BTC treasury so while the # of outstanding shares goes up and dilutes stock holders in a "their holdings"/"total shares" sense, MSTR attempts to not dilute these holders in the "BTC per outstanding share" sense. The key phrase here that you will hear is that the MSTR ATM offerings are "accretive" to shareholders due to this BTC/share ratio going up.
 
+### Why So Many Funding Strategies?
+
+The reason for so many funding strategies is that one strategy isn't optimal for all market conditions; therefore, MSTR has decided to deploy these different capital raising mechanisms as optimally as possible based on market conditions. For instance, when the MSTR market cap is trading at a very high premium to its NAV (Net Asset Value), ATM offerings might make more sense than a debt offering because at a very high NAV premium, the ATM offering should be accretive meaning the amount of BTC that can be bought should increase the BTC per share ratio.
+
 ## Convertible Debt Conversion
 
 Saylor's idea here and the mechanics are the following -
