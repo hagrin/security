@@ -6,6 +6,14 @@ The following is an attempt to spell out as many angles of the MSTR trade as I p
 
 Microstrategy is, at its core, a software / IT services company that remains extremely vital to its bitcoin treasury ambitions. What does the core business give Saylor in his quest to be able to build this bitcoin treasury? A balance sheet.
 
+## MSTR "Levers"
+
+MSTR has several levers to use or raise funds to buy more BTC for their treasury which include, but are not limited to -
+- Traditional debt - taking a traditional loan from a lender, but using it to buy BTC
+- Convertible debt
+- Equity / ATM ("At-the-Market") equity offerings - selling shares of the equity into the market to raise capital
+The ATM equity offerings are particularly interesting here because it feeds one specific narrative. For most traditional companies, when you do ATMs, you're usually raising capital for either CapEx (capital expenditures) or OpEx (operational expenditures) with the purpose of keeping the company moving forward, but while diluting current shareholders. With the MSTR shareholders, these ATM raises are being used to add to the BTC treasury so while the # of outstanding shares goes up and dilutes stock holders in a "their holdings"/"total shares" sense, MSTR attempts to not dilute these holders in the "BTC per outstanding share" sense.
+
 ## Convertible Debt Conversion
 
 Saylor's idea here and the mechanics are the following -
