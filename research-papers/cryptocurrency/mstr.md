@@ -37,8 +37,13 @@ Other factors to consider in the MSTR analysis -
 
 "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter" - Source: https://x.com/BenWerkman/status/1847368302663716965
 
+## Interpreting the Data
+
+Once you understand the strategy behind what MSTR's plan is, it's time to start interpreting all the data and you must understand how to navigate all of the relevant data points. One of the first visits an analyst should take is to the MSTR Form 8-Ks. Here you will find information regarding their "Indebtedness and Interest Expense" and "Bitcoin Holdings".
+
 ### References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
+MSTR-Tracker.com - https://mstr-tracker.com/<br />
 22 Apr 2024 - https://www.youtube.com/watch?v=bUfVLzNdOyc - Saylor interview
 - Specifically, this clip here https://x.com/bleighky/status/1783551971682640241
 
