@@ -27,10 +27,14 @@ Saylor's idea here and the mechanics are the following -
 - By doing it this way, the BTC/ratio already accounts for debt conversion and dilution
 - If conversions happen, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC
 
+## The MSTR BTC Yield KPI
+
+
+
 ## "Miscellaneous Trivia"
 
 Other factors to consider in the MSTR analysis - 
-- Switch to FASB accounting still pending
+- Switch to FASB accounting still pending and associated tax bill with this switch
 - Inclusion into Nasdaq indices
 
 ### Facts
