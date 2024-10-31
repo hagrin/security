@@ -29,11 +29,13 @@ Saylor's idea here and the mechanics are the following -
 
 ## The MSTR BTC Yield KPI
 
-## Dilution
+## Ownership Dilution
 
-On 30 Oct 2024 Saylor answered a question regarding the $21 billion ATM that was announced and how this will effect his majority ownership stake and how he sees his stake being diluted.
+MSTR's strategy is to be accretive in terms of BTC held in the treasury per Assumed Outstanding shares of MSTR so MSTR will argue that the issuing of more Class A stock is not dilutive at all - however, that is not the only dilution that we care about. On 30 Oct 2024 Saylor answered a question regarding the $21 billion ATM that was announced and how this will effect his majority ownership stake and how he sees his stake being diluted.
 
 https://github.com/user-attachments/assets/2eca26fa-2752-454e-bd74-edd78f2eff3a
+
+Saylor's argument basically boils down to "it's fine" and "no big deal" and that the other holders of the A shares are always in contact with people at MSTR and they understand the vision and they understand what MSTR is trying to accomplish. He also mentions that een when he dips into the 40% range that he may be able to find "2 or 3 holders to vote with him". While this may be very true, there is some non-zero risk here.
 
 ## "Miscellaneous Trivia"
 
