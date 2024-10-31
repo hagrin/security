@@ -31,6 +31,8 @@ Saylor's idea here and the mechanics are the following -
 
 ## Dilution
 
+On 30 Oct 2024 Saylor answered a question regarding the $21 billion ATM that was announced and how this will effect his majority ownership stake and how he sees his stake being diluted.
+
 https://github.com/user-attachments/assets/2eca26fa-2752-454e-bd74-edd78f2eff3a
 
 ## "Miscellaneous Trivia"
@@ -57,3 +59,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 14 Oct 2024 - https://x.com/coryklippsten/status/1845943525021753801 - Excerpt of Lyn Alden's comments on MSTR in her paywalled newsletter<br />
 18 Oct 2024 - https://x.com/BenWerkman/status/1847368302663716965 - tweet about the 130% rule<br />
 24 Oct 2024 - https://blog.bitmex.com/microstrategy-bonds-can-mstr-get-liquidated/ - Not entirely sure this is a good reference article, but documenting for completeness sake<br />
+30 Oct 2024 - https://x.com/crab_apple_3773/status/1851785058027237839 - Saylor talks about losing >50% control of MSTR through the massive ATM raise / dilution
