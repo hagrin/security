@@ -29,7 +29,9 @@ Saylor's idea here and the mechanics are the following -
 
 ## The MSTR BTC Yield KPI
 
+## Dilution
 
+https://github.com/user-attachments/assets/2eca26fa-2752-454e-bd74-edd78f2eff3a
 
 ## "Miscellaneous Trivia"
 
