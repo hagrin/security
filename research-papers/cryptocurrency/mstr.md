@@ -62,5 +62,6 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 6 July 2024 - https://x.com/startupseb_/status/1809641462667039190 - Thread on why the FASB rule change at MSTR<br />
 14 Oct 2024 - https://x.com/coryklippsten/status/1845943525021753801 - Excerpt of Lyn Alden's comments on MSTR in her paywalled newsletter<br />
 18 Oct 2024 - https://x.com/BenWerkman/status/1847368302663716965 - tweet about the 130% rule<br />
+19 Oct 2024 - https://x.com/TimKotzman/status/1847741945332060327 - Just a very good, high dense hour conversation about the MSTR trade with a bull bias<br />
 24 Oct 2024 - https://blog.bitmex.com/microstrategy-bonds-can-mstr-get-liquidated/ - Not entirely sure this is a good reference article, but documenting for completeness sake<br />
 30 Oct 2024 - https://x.com/crab_apple_3773/status/1851785058027237839 - Saylor talks about losing >50% control of MSTR through the massive ATM raise / dilution
