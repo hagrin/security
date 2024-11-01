@@ -6,11 +6,11 @@ The following is an attempt to spell out as many angles of the MSTR trade as I p
 
 Microstrategy is, at its core, a software / IT services company that remains extremely vital to its bitcoin treasury ambitions. What does the core business give Saylor in his quest to be able to build this bitcoin treasury? A balance sheet.
 
-## MSTR "Levers"
+## MSTR "Buttons & Levers"
 
 MSTR has several levers to use or raise funds to buy more BTC for their treasury which include, but are not limited to -
 - Traditional debt - taking a traditional loan from a lender, but using it to buy BTC
-- Convertible debt
+- Convertible debt - bond with the option to convert into shares at certain prices
 - Equity / ATM ("At-the-Market") equity offerings - selling shares of the equity into the market to raise capital
 
 The ATM equity offerings are particularly interesting here because it feeds one specific narrative. For most traditional companies, when you do ATMs, you're usually raising capital for either CapEx (capital expenditures) or OpEx (operational expenditures) with the purpose of keeping the company moving forward, but while diluting current shareholders. With the MSTR shareholders, these ATM raises are being used to add to the BTC treasury so while the # of outstanding shares goes up and dilutes stock holders in a "their holdings"/"total shares" sense, MSTR attempts to not dilute these holders in the "BTC per outstanding share" sense. The key phrase here that you will hear is that the MSTR ATM offerings are "accretive" to shareholders due to this BTC/share ratio going up.
@@ -18,6 +18,8 @@ The ATM equity offerings are particularly interesting here because it feeds one 
 ### Why So Many Funding Strategies?
 
 The reason for so many funding strategies is that one strategy isn't optimal for all market conditions; therefore, MSTR has decided to deploy these different capital raising mechanisms as optimally as possible based on market conditions. For instance, when the MSTR market cap is trading at a very high premium to its NAV (Net Asset Value), ATM offerings might make more sense than a debt offering because at a very high NAV premium, the ATM offering should be accretive meaning the amount of BTC that can be bought should increase the BTC per share ratio.
+
+However, ATMs might not always make sense with the bitcoin market conditions. Therefore, instead of just waiting out these bearish periods or periods of little NAV premium (at a discount you might be forced to take on traditional debt), MSTR has the option of offering convertible bonds. Convertible bonds are an extremely attractive lever for MSTR to pull since convertible bonds are accessible to a part of the market or liquidity pool that doesn't have the ability to access other bitcoin related instruments like BTC spot or BTC ETFs or futures/options. These convertible bonds are highly attractive to the fixed income market because they are packaged and structured with more volatility than most anything else available to these traders and so there's some appetite in this marketplace for these MSTR convertible bonds. 
 
 ## Convertible Debt Conversion
 
