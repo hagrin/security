@@ -63,6 +63,7 @@ Once you understand the strategy behind what MSTR's plan is, it's time to start 
 
 ### References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
+MSTR Financial Documents - https://www.microstrategy.com/financial-documents<br />
 MSTR-Tracker.com - https://mstr-tracker.com/<br />
 22 Apr 2024 - https://www.youtube.com/watch?v=bUfVLzNdOyc - Saylor interview
 - Specifically, this clip here https://x.com/bleighky/status/1783551971682640241
