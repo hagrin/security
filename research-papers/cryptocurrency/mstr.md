@@ -37,6 +37,8 @@ While not a new concept, the Bitcoin Yield KPI first started appearing in earnes
 
 BTC Yield = Total Bitcoin Holdings / Assumed Diluted Shares Outstanding
 
+First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 Sept 2024 8-K form, this is defined as "<i>Assumed Diluted Shares Outstanding refers to the aggregate of our actual shares of common stock outstanding as of the end of each period plus all additional shares that would result from the assumed conversion of all outstanding convertible notes, exercise of all outstanding stock option awards, and settlement of all outstanding restricted stock units and performance stock units</i>".
+
 ## Ownership Dilution
 
 MSTR's strategy is to be accretive in terms of BTC held in the treasury per Assumed Outstanding shares of MSTR so MSTR will argue that the issuing of more Class A stock is not dilutive at all - however, that is not the only dilution that we care about. On 30 Oct 2024 Saylor answered a question regarding the $21 billion ATM that was announced and how this will effect his majority ownership stake and how he sees his stake being diluted.
