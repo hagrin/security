@@ -25,7 +25,7 @@ However, ATMs might not always make sense with the bitcoin market conditions. Th
 
 Saylor's idea here and the mechanics are the following -
 - Issue convertible debt
-- At the time of this issue, the conversion is accounted for immeditaely in the "implied outstanding shares"
+- At the time of this issue, the conversion is accounted for immeditaely in the "Assumed Diluted Shares" or "implied outstanding shares"
 - By doing it this way, the BTC/ratio already accounts for debt conversion and dilution
 - If conversions happen, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC
 
