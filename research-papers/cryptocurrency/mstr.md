@@ -21,7 +21,7 @@ The reason for so many funding strategies is that one strategy isn't optimal for
 
 However, ATMs might not always make sense with the bitcoin market, MSTR share price or NAV premium conditions. Therefore, instead of just waiting out these bearish periods or periods of little NAV premium (at a discount you might be forced to take on traditional debt), MSTR has the option of offering convertible bonds. Convertible bonds are an extremely attractive lever for MSTR to pull since convertible bonds are accessible to a part of the market or liquidity pool that doesn't have the ability to access other bitcoin related instruments like BTC spot or BTC ETFs or futures/options. These convertible bonds are highly attractive to the fixed income market because they are packaged and structured with more volatility than most anything else available to these traders and so there's some appetite in this marketplace for these MSTR convertible bonds. 
 
-## Convertible Debt Conversion
+## Convertible Debt Concepts & Conversion Rules
 
 Saylor's idea here and the mechanics are the following -
 - Issue convertible debt
