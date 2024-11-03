@@ -19,7 +19,7 @@ The ATM equity offerings are particularly interesting here because it feeds one 
 
 The reason for so many funding strategies is that one strategy isn't optimal for all market conditions; therefore, MSTR has decided to deploy these different capital raising mechanisms as optimally as possible based on market conditions. For instance, when the MSTR market cap is trading at a very high premium to its NAV (Net Asset Value), ATM offerings might make more sense than a debt offering because at a very high NAV premium, the ATM offering should be accretive meaning the amount of BTC that can be bought should increase the BTC per share ratio.
 
-However, ATMs might not always make sense with the bitcoin market conditions. Therefore, instead of just waiting out these bearish periods or periods of little NAV premium (at a discount you might be forced to take on traditional debt), MSTR has the option of offering convertible bonds. Convertible bonds are an extremely attractive lever for MSTR to pull since convertible bonds are accessible to a part of the market or liquidity pool that doesn't have the ability to access other bitcoin related instruments like BTC spot or BTC ETFs or futures/options. These convertible bonds are highly attractive to the fixed income market because they are packaged and structured with more volatility than most anything else available to these traders and so there's some appetite in this marketplace for these MSTR convertible bonds. 
+However, ATMs might not always make sense with the bitcoin market, MSTR share price or NAV premium conditions. Therefore, instead of just waiting out these bearish periods or periods of little NAV premium (at a discount you might be forced to take on traditional debt), MSTR has the option of offering convertible bonds. Convertible bonds are an extremely attractive lever for MSTR to pull since convertible bonds are accessible to a part of the market or liquidity pool that doesn't have the ability to access other bitcoin related instruments like BTC spot or BTC ETFs or futures/options. These convertible bonds are highly attractive to the fixed income market because they are packaged and structured with more volatility than most anything else available to these traders and so there's some appetite in this marketplace for these MSTR convertible bonds. 
 
 ## Convertible Debt Conversion
 
@@ -27,7 +27,15 @@ Saylor's idea here and the mechanics are the following -
 - Issue convertible debt
 - At the time of this issue, the conversion is accounted for immeditaely in the "Assumed Diluted Shares" or "implied outstanding shares"
 - By doing it this way, the BTC/ratio already accounts for debt conversion and dilution
-- If conversions happen, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC
+- If conversions happen, whether due to maturity and or the execution of the several conversion rules, on these redemptions where the bond holders redeem to get their capital returned, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC.
+
+### What are the Rules for Conversion
+
+
+
+## "Where Does The Demand Come From MFer" - Chasing Goose
+
+
 
 ## The MSTR BTC Yield KPI
 
