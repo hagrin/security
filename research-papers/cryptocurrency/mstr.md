@@ -31,7 +31,8 @@ Saylor's idea here and the mechanics are the following -
 
 ### What are the Rules for Conversion
 
-
+There are several rules that dictate conversion of these convertible bonds (note, these are the rules that are currently being used, they may use different rules in the future) - 
+- The 130% Rule - 
 
 ## "Where Does The Demand Come From MFer" - Chasing Goose
 
