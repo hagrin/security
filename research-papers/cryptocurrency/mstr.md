@@ -10,7 +10,7 @@ Microstrategy is, at its core, a software / IT services company that remains ext
 
 MSTR has several levers to use or raise funds to buy more BTC for their treasury which include, but are not limited to -
 - Traditional debt - taking a traditional loan from a lender, but using it to buy BTC
-- Convertible debt - bond with the option to convert into shares at certain prices
+- Convertible debt - long-term bonds with the option to convert into shares at certain prices, MSTR's have been issued at a low interest rate redeemable at ~30-40% above the current MSTR price, but governed by conversion rules and time tables.
 - Equity / ATM ("At-the-Market") equity offerings - selling shares of the equity into the market to raise capital
 
 The ATM equity offerings are particularly interesting here because it feeds one specific narrative. For most traditional companies, when you do ATMs, you're usually raising capital for either CapEx (capital expenditures) or OpEx (operational expenditures) with the purpose of keeping the company moving forward, but while diluting current shareholders. With the MSTR shareholders, these ATM raises are being used to add to the BTC treasury so while the # of outstanding shares goes up and dilutes stock holders in a "their holdings"/"total shares" sense, MSTR attempts to not dilute these holders in the "BTC per outstanding share" sense. The key phrase here that you will hear is that the MSTR ATM offerings are "accretive" to shareholders due to this BTC/share ratio going up.
