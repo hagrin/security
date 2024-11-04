@@ -62,6 +62,14 @@ https://github.com/user-attachments/assets/2eca26fa-2752-454e-bd74-edd78f2eff3a
 
 Saylor's argument basically boils down to "it's fine" and "no big deal" and that the other holders of the A shares are always in contact with people at MSTR and they understand the vision and they understand what MSTR is trying to accomplish. He also mentions that een when he dips into the 40% range that he may be able to find "2 or 3 holders to vote with him". While this may be very true, there is some non-zero risk here. On the positive side, there are some "MAD" principles here (Mutually Assured Destruction) where shareholders would destroy their own value is they ever voted to dissolve or start selling any bitcoin from the treasury - the voting to sell some part of the treasury immediately destroys the illusion of a "closed fund" which MSTR currently acts like.
 
+### Key Man Risk
+
+In addition to dilution concerns, MSTR has very clear "Key Man" concerns - in other words, what is the Continuity Plan if something was to happen to Saylor - the man controlling the MSTR votes with his Class B shares and being (mostly) the last word on MSTR never selling a single satoshi. Saylor speaks about this issue in-depth here - 
+
+https://github.com/user-attachments/assets/46d2a8ad-6f2b-49be-a62b-0bfc95b5d1ca
+
+Saylor states that he has no heirs and therefore, upon his journey to the eternal darkness, his bitcoin and his shares will go to a non-profit, public charity that's mission is the advancement of bitcoin.
+
 ## "Miscellaneous Trivia"
 
 Other factors to consider in the MSTR analysis - 
