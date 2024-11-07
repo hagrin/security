@@ -84,6 +84,12 @@ Other factors to consider in the MSTR analysis -
 
 Once you understand the strategy behind what MSTR's plan is, it's time to start interpreting all the data and you must understand how to navigate all of the relevant data points. One of the first visits an analyst should take is to the MSTR Form 8-Ks. Here you will find information regarding their "Indebtedness and Interest Expense" and "Bitcoin Holdings".
 
+## So What Are the Actual Risks?
+
+Now that we understand the concepts behind the trade, what exactly are the risks?
+
+
+
 ### References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
 MSTR Financial Documents - https://www.microstrategy.com/financial-documents<br />
