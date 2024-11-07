@@ -20,3 +20,6 @@ Westinghouse - https://westinghousenuclear.com/ - founded in 1999, nuclear divis
 
 X-energy - https://x-energy.com/
 - 2024 Oct 16 - https://x-energy.com/media/news-releases/amazon-invests-in-x-energy-to-support-advanced-small-modular-nuclear-reactors-and-expand-carbon-free-power - Amazon invests in X-energy for Small Modular Nuclear Reactors
+
+### Resources
+![image](https://github.com/user-attachments/assets/e805f2c4-3784-40d3-a7c5-dc7c36208a6c)
