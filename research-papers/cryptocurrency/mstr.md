@@ -86,8 +86,14 @@ Once you understand the strategy behind what MSTR's plan is, it's time to start 
 
 ## So What Are the Actual Risks?
 
-Now that we understand the concepts behind the trade, what exactly are the risks? if you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine.
-
+Now that we understand the concepts behind the trade, what exactly are the risks? If you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine. While I do agree on the surface that there are some basic conditions that should allow this strategy to work pretty well, I do find it hard to believe that there are no risk factors and that this is an unstoppable perpetual motion machine. So, what are some of those risks?
+- Core software business threatened by AI limiting cash flow needed for debt servicing
+- Implied agreement by MSTR/Saylor not to sell a single satoshi & act as a "closed fund"
+- Bitcoin financial services / bank / lending business never materializes
+- Continued aggressive dilution of the Common A shares opening up potential for a hostile takeover attempt
+- Minneapolis Fed paper outlining debt issuing problems when bitcoin exists in the fixed income market
+- Protracted bitcoin bear market and / or adherence to the historical ABCD 4 year cycle
+- Normal bitcoin regulatory related concerns
 
 
 ### References
