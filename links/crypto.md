@@ -63,6 +63,10 @@ https://treasuries.bitbo.io/#public<br />
 
 ETH ETF Flow Data - https://farside.co.uk/?p=1518<br />
 
+#### NFTs
+
+Blur - https://blur.io/<br />
+
 ### Solana
 
 RugCheck - https://rugcheck.xyz/<br />
