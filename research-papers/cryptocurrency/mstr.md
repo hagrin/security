@@ -86,7 +86,7 @@ Once you understand the strategy behind what MSTR's plan is, it's time to start 
 
 ## So What Are the Actual Risks?
 
-Now that we understand the concepts behind the trade, what exactly are the risks?
+Now that we understand the concepts behind the trade, what exactly are the risks? if you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine.
 
 
 
