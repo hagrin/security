@@ -1,5 +1,9 @@
 # Links
 
+## Blue Team
+
+Logging Made Easy - https://www.cisa.gov/resources-tools/services/logging-made-easy<br />
+
 ## Debugger
 
 dnSpy - https://github.com/dnSpy/dnSpy - .Net debugger and editor<br />
