@@ -8,7 +8,7 @@ Microstrategy's basic idea is extremely straightfroward - first, raise capital t
 
 ## Core Business
 
-Microstrategy is, at its core, a software / IT services company that remains extremely vital to its bitcoin treasury ambitions. What does the core business give Saylor in his quest to be able to build this bitcoin treasury? A balance sheet.
+Microstrategy is, at its core, a software / IT services company that remains extremely vital to its bitcoin treasury ambitions. What does the core business give Saylor in his quest to be able to build this bitcoin treasury? A balance sheet. The balance sheet allows him to do corporate bond offerings that other entities could not do if they simply just wanted to build a BTC treasury through convertible debt raises. The core business also provides MSTR a cash flow that allows MSTR to meet any tax or debt servicing obligations that may arise.
 
 ## MSTR "Buttons & Levers"
 
