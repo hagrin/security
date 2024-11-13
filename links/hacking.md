@@ -2,7 +2,7 @@
 
 ## Blue Team
 
-Logging Made Easy - https://www.cisa.gov/resources-tools/services/logging-made-easy<br />
+Logging Made Easy - https://www.cisa.gov/resources-tools/services/logging-made-easy - no-cost log management solution that empowers small to medium-sized organizations to monitor networks, identify users, and strengthen security, ultimately enhancing their overall cybersecurity posture<br />
 
 ## Debugger
 
