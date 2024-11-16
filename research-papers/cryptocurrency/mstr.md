@@ -102,7 +102,7 @@ Now that we understand the concepts behind the trade, what exactly are the risks
 - Normal bitcoin regulatory related concerns
 - Is there a limit to the size of their holdings before the market no longer MTMs (marks-to-market) their BTC treasury?
 
-All business have risks so this isn't any slight towards MSTR the company, but to properly assess the risk associated with the MSTR BTC Treasury strategy one must understand the risks involved. The easiest one is that the core business is threatened by AI and that AI eats into the cash flow of MSTR. 
+All businesses have risks so this isn't any slight towards MSTR the company, but to properly assess the risk associated with the MSTR BTC Treasury strategy one must understand the risks involved. The easiest one is that the core business is threatened by AI and that AI eats into the cash flow of MSTR. A substantial decrease of their cash flow from their core business may make the 2nd risk more relevant - acting as a closed fund.
 
 
 ### References
