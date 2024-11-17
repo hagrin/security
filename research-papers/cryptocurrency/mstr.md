@@ -63,6 +63,7 @@ First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 
 ## mNAV & "Should There Be A Premium?"
 
 In Progress - Geographic regulatory arbitrage, tax differences vs buying spot BTC
+Ex: Metaplanet - Marginal tax on crypto gains is treated like misc income in Japan so can be taxed up to 55%, but listed securities are 20%
 
 ## Ownership Dilution
 
@@ -88,7 +89,7 @@ Other factors to consider in the MSTR analysis -
 
 ### Facts
 
-- "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter" ( Source: https://x.com/BenWerkman/status/1847368302663716965 )
+- "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter", Source: https://x.com/BenWerkman/status/1847368302663716965
 - The convertible bonds outperforming spot bitcoin in the first 3 quarters of 2024 which is not a thing that happens.
 
 ## Interpreting the Data
