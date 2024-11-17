@@ -103,6 +103,7 @@ Now that we understand the concepts behind the trade, what exactly are the risks
 - Continued aggressive dilution of the Common A shares opening up potential for a hostile takeover attempt
 - Minneapolis Fed paper outlining debt issuing problems when bitcoin exists in the fixed income market
 - Protracted bitcoin bear market and / or adherence to the historical ABCD 4 year cycle
+- Continued muting of bitcoin volatility
 - Normal bitcoin regulatory related concerns
 - Is there a limit to the size of their holdings before the market no longer MTMs (marks-to-market) their BTC treasury?
 
