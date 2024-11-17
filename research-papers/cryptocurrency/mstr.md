@@ -60,6 +60,10 @@ BTC Yield = Total Bitcoin Holdings / Assumed Diluted Shares Outstanding
 
 First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 Sept 2024 8-K form, this is defined as "<i>Assumed Diluted Shares Outstanding refers to the aggregate of our actual shares of common stock outstanding as of the end of each period plus all additional shares that would result from the assumed conversion of all outstanding convertible notes, exercise of all outstanding stock option awards, and settlement of all outstanding restricted stock units and performance stock units</i>".
 
+## mNAV & "Should There Be A Premium?"
+
+In Progress - Geographic regulatory arbitrage, tax differences vs buying spot BTC
+
 ## Ownership Dilution
 
 MSTR's strategy is to be accretive in terms of BTC held in the treasury per Assumed Outstanding shares of MSTR so MSTR will argue that the issuing of more Class A stock is not dilutive at all - however, that is not the only dilution that we care about. On 30 Oct 2024 Saylor answered a question regarding the $21 billion ATM that was announced and how this will effect his majority ownership stake and how he sees his stake being diluted.
@@ -103,6 +107,8 @@ Now that we understand the concepts behind the trade, what exactly are the risks
 - Is there a limit to the size of their holdings before the market no longer MTMs (marks-to-market) their BTC treasury?
 
 All businesses have risks so this isn't any slight towards MSTR the company, but to properly assess the risk associated with the MSTR BTC Treasury strategy one must understand the risks involved. The easiest one is that the core business is threatened by AI and that AI eats into the cash flow of MSTR. A substantial decrease of their cash flow from their core business may make the 2nd risk more relevant - acting as a closed fund.
+
+Saylor has stated many times that his promise to investors, as well as short sellers, is that he will not sell any bitcoin through MSTR from their BTC treasury. This statement allows MSTR to act like a "closed fund" much like GBTC did before redemptions were allowed through the spot ETF conversion. 
 
 
 ### References
