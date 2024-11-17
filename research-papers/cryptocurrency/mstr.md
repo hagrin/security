@@ -54,7 +54,7 @@ Almost every MSTR analyst that leans to the bull thesis will tell you it comes f
 
 This is your bull thesis in its entirety.
 
-While not a new concept, the Bitcoin Yield KPI first started appearing in earnest <a href="https://assets.contentstack.io/v3/assets/bltb564490bc5201f31/blt47c4fe8efa72ccd4/66abec040ccb2f50c2802684/form-8-k_08-01-2024.pdf">in the August 8-K form</a>. In this 8-K, MSTR outlined in text format the idea of how while there is actual share dilution vs total shares that the share dilution was actually accretive to shareholders using the BTC Yield KPI metric. This metric is defined as - 
+While not a new concept, the Bitcoin Yield KPI first started appearing in earnest <a href="https://assets.contentstack.io/v3/assets/bltb564490bc5201f31/blt47c4fe8efa72ccd4/66abec040ccb2f50c2802684/form-8-k_08-01-2024.pdf">in the 2024 August 8-K form</a>. In this 8-K, MSTR outlined in text format the idea of how while there is actual share dilution vs total shares that the share dilution was actually accretive to shareholders using the BTC Yield KPI metric. This metric is defined as - 
 
 BTC Yield = Total Bitcoin Holdings / Assumed Diluted Shares Outstanding
 
