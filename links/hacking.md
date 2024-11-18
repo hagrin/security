@@ -34,7 +34,9 @@ Hashcat - https://hashcat.net/hashcat/<br />
 
 ## Proxy
 
+From inside the browser chrome://net-export/ or edge://net-export/ - will save captured data in a JSON<br />
 Burp - https://portswigger.net/burp/communitydownload - Community Edition is free, there are paid versions that do much more<br />
+Fiddler - https://www.telerik.com/fiddler<br />
 
 ## Tools
 
