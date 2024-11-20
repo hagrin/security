@@ -86,6 +86,7 @@ Saylor states that he has no heirs and therefore, upon his journey to the eterna
 Other factors to consider in the MSTR analysis - 
 - Switch to fair value accounting (some refer to this as FASB) still pending. CFO Andrew Kang seemed to indicate on the 30 Oct 2024 Investors Call that they will be adopting FASB Q1 2025, but a bit unclear at the time of this writing.
 - Inclusion into Nasdaq indices
+- The MSTR 2x ETFs, their market cap and their reflexivity to the underlying
 
 ### Facts
 
