@@ -110,7 +110,7 @@ Now that we understand the concepts behind the trade, what exactly are the risks
 - Normal bitcoin regulatory related concerns
 - Is there a limit to the size of their holdings before the market no longer MTMs (marks-to-market) their BTC treasury?
 
-All businesses have risks so this isn't any slight towards MSTR the company, but to properly assess the risk associated with the MSTR BTC Treasury strategy one must understand the risks involved. The easiest one is that the core business is threatened by AI and that AI eats into the cash flow of MSTR. A substantial decrease of their cash flow from their core business may make the 2nd risk more relevant - acting as a closed fund.
+All businesses have risks so this isn't any slight towards MSTR the company, but to properly assess the risk associated with the MSTR BTC Treasury strategy one must understand the risks involved. The easiest one is that the core business is threatened by AI and that AI eats into the cash flow of MSTR. A substantial decrease of their cash flow from their core business may make the 2nd risk more relevant - acting as a closed fund. The counterargument to the core business not having a substantial positive cash flow is that many believer that shareholders will raise the capital needed to meet the debt servicing obligations (which are currently in the low 10s of millions).
 
 Saylor has stated many times that his promise to investors, as well as short sellers, is that he will not sell any bitcoin through MSTR from their BTC treasury. This statement allows MSTR to act like a "closed fund" much like GBTC did before redemptions were allowed through the spot ETF conversion. 
 
