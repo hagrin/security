@@ -35,6 +35,8 @@ Saylor's idea here and the mechanics are the following -
 - By doing it this way, the BTC/ratio already accounts for debt conversion and dilution
 - If conversions happen, whether due to maturity and or the execution of the several conversion rules, on these redemptions where the bond holders redeem to get their capital returned, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC.
 
+What about from the convertible bond buyer's perspective? 
+
 ### What are the Rules for Conversion
 
 There are several rules that dictate conversion of these convertible bonds (note, these are the rules that are currently being used, they may use different rules in the future) - 
@@ -46,7 +48,7 @@ There are several rules that dictate conversion of these convertible bonds (note
   <img src="https://github.com/user-attachments/assets/56fc2563-ab2b-4cab-8181-74867b023dfa">
 </div><br />
 
-The volatility. 
+The leverage and the volatility. 
 
 Almost every MSTR analyst that leans to the bull thesis will tell you it comes from the volatility built into the instruments. However, there is also this very basic, implied belief that bitcoin, on long time horizons, will continue to go up vs the USD due to many of the same BTC bull thesis reasons (fixed supply, M1/M2 expansion, continued debasement of the currency, increased social welfare, possible strategy to inflate away the US' debt obligations, etc etc).
 
@@ -127,4 +129,5 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 18 Oct 2024 - https://x.com/BenWerkman/status/1847368302663716965 - tweet about the 130% rule<br />
 19 Oct 2024 - https://x.com/TimKotzman/status/1847741945332060327 - Just a very good, high dense hour conversation about the MSTR trade with a bull bias<br />
 24 Oct 2024 - https://blog.bitmex.com/microstrategy-bonds-can-mstr-get-liquidated/ - Not entirely sure this is a good reference article, but documenting for completeness sake<br />
-30 Oct 2024 - https://x.com/crab_apple_3773/status/1851785058027237839 - Saylor talks about losing >50% control of MSTR through the massive ATM raise / dilution
+30 Oct 2024 - https://x.com/crab_apple_3773/status/1851785058027237839 - Saylor talks about losing >50% control of MSTR through the massive ATM raise / dilution<br />
+20 Nov 2024 - https://www.youtube.com/watch?v=8U1JqBQ82b4 - Very good in-depth talk about the mechanics of convertible bonds<br />
