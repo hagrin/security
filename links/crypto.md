@@ -37,6 +37,7 @@ DMG Blockchain Solutions (was previously better known as BlockSeer) - https://dm
 Chainalysis Reactor<br />
 CipherTrace<br />
 KYCP - https://www.kycp.org<br />
+LiquiSabi - https://liquisabi.com/ - monitors coinjoins<br />
 Solidus Labs - https://www.soliduslabs.com/<br />
 Scorechain - https://www.scorechain.com/<br />
 TRM Labs<br />
