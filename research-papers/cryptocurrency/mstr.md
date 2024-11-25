@@ -1,6 +1,8 @@
 # Mircrostrategy (MSTR) Investment Analysis
 
-The following is an attempt to spell out as many angles of the MSTR trade as I possibly can. Warning - I do not feel overly comfortable writing on this topic because I feel like I maybe understand 90% of it and the last 10% is very likely to hold a lot of value. However, this has been a very requested topic; therefore, I am attempting to create a reference document.<br />
+The following is an attempt to spell out as many angles of the MSTR trade as I possibly can. I honestly feel like this is one of the more complicated trades around right now because you need to understand the bitcoin markets, the traditional equities market, the bond market, geopolitics and everything else that comes with understanding bitcoin. My belief is that anyone who describes this trade in simplistic terms highly likely doesn't understand how the entire trade functions.
+
+Warning - I do not feel overly comfortable writing on this topic because it <strong>is</strong> one of the most comlpicated trades around right now. However, this has been a very requested topic; therefore, I am attempting to create a reference document.<br />
 
 ## Mission Statement / General Trade Idea
 
