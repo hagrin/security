@@ -2,7 +2,9 @@
 
 The following is an attempt to spell out as many angles of the MSTR trade as I possibly can. I honestly feel like this is one of the more complicated trades around right now because you need to understand the bitcoin markets, the traditional equities market, the bond market, geopolitics and everything else that comes with understanding bitcoin. My belief is that anyone who describes this trade in simplistic terms highly likely doesn't understand how the entire trade functions.
 
-Warning - I do not feel overly comfortable writing on this topic because it <strong>is</strong> one of the most comlpicated trades around right now. However, this has been a very requested topic; therefore, I am attempting to create a reference document. This document attempts to first lay out all of the mechanics behind this trade and then try and offer up some things to think about in terms of price, risk and long-term viability.<br />
+Warning - I do not feel overly comfortable writing on this topic because it <strong>is</strong> one of the most comlpicated trades around right now. However, this has been a very requested topic; therefore, I am attempting to create a reference document. This document attempts to first lay out all of the mechanics behind this trade and then try and offer up some things to think about in terms of price, risk and long-term viability.
+
+Normal financial disclosures - this isn't financial advice and you shouldn't purchase or not purchase MSTR or bitcoin based on anything below. The following is simply an outline of how the parties involved in this trade are behaving and their likely motivations.
 
 ## Mission Statement / General Trade Idea
 
