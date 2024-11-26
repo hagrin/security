@@ -103,11 +103,11 @@ Other factors to consider in the MSTR analysis -
 - "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter", Source: https://x.com/BenWerkman/status/1847368302663716965
 - The convertible bonds outperforming spot bitcoin in the first 3 quarters of 2024 which is not a thing that happens.
 
-### Interpreting the Data
+## Interpreting the Data
 
 Once you understand the strategy behind what MSTR's plan is, it's time to start interpreting all the data and you must understand how to navigate all of the relevant data points. One of the first visits an analyst should take is to the MSTR Form 8-Ks. Here you will find information regarding their "Indebtedness and Interest Expense" and "Bitcoin Holdings".
 
-### So What Are the Actual Risks?
+## So What Are the Actual Risks?
 
 Now that we understand the concepts behind the trade, what exactly are the risks? If you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine. While I do agree on the surface that there are some basic conditions that should allow this strategy to work pretty well, I do find it hard to believe that there are no risk factors and that this is an unstoppable perpetual motion machine. So, what are some of those risks?
 - Core software business threatened by AI limiting cash flow needed for debt servicing
