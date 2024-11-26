@@ -10,9 +10,9 @@ Normal financial disclosures - this isn't financial advice and you shouldn't pur
 
 1) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#mission-statement--general-trade-idea">Mission Statement / General Trade Idea</a>
 2) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#core-business">Core Business</a>
-3) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#mstr-buttons--levers">MSTR Buttons / Levers</a>
+3) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#mstr-buttons--levers">MSTR Buttons / Levers</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#why-so-many-funding-strategies">Why So Many Funding Strategies</a>
-4) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#convertible-debt-concepts--conversion-rules">Convertible Debt Concepts & Conversion Rules</a>
+4) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#convertible-debt-concepts--conversion-rules">Convertible Debt Concepts & Conversion Rules</a><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#what-are-the-rules-for-conversion">What Are the Rules for Conversion</a>
 5) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#where-does-the-demand-come-from-mfer---chasing-goose">Where Does the Demand Come From?</a>
 6) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#the-mstr-btc-yield-kpi">The MSTR BTC Yield KPI</a>
