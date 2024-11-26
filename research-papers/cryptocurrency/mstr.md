@@ -6,6 +6,10 @@ Warning - I do not feel overly comfortable writing on this topic because it <str
 
 Normal financial disclosures - this isn't financial advice and you shouldn't purchase or not purchase MSTR or bitcoin based on anything below. The following is simply an outline of how the parties involved in this trade are behaving and their likely motivations.
 
+## Table of Contents
+
+1) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#mission-statement--general-trade-idea">Mission Statement / General Trade Idea</a>
+
 ## Mission Statement / General Trade Idea
 
 Microstrategy's basic idea is extremely straightfroward - first, raise capital through bond issues or equity offerings to buy bitcoin and create an extensive bitcoin treasury. This step has already been successfully launched and put into practice with bitcoin holdings over 272k BTC (13 Nov 2024). Second, and yet to be made active and is very speculative, is to create a bitcoin based financial services / bank operation so that they can utilize that treasury to earn BTC yield (entirely possible this never materializes). The entire premise can be boiled down to a simple idea - that MSTR is trading ever increasingly devalued fiat in order to accumulate, and never sell, a much harder asset that will continue to gain value versus fiat on long time horizons. What MSTR is executing is akin to a "vampire attack" against the USD (or a speculative attack or a Bitcoin Milkshake scenario) where one alternative tries to attract liquidity, interest and volume from another alternative by being a more attractive alternative. In this scenario the ever increasing purchasing power of bitcoin vs the USD is the attractive incentive to not only buy, but hold the asset.
