@@ -95,7 +95,7 @@ Saylor states that he has no heirs and therefore, upon his journey to the eterna
 
 Other factors to consider in the MSTR analysis - 
 - Switch to fair value accounting (some refer to this as FASB) still pending. CFO Andrew Kang seemed to indicate on the 30 Oct 2024 Investors Call that they will be adopting FASB Q1 2025, but a bit unclear at the time of this writing.
-- Inclusion into Nasdaq indices
+- Inclusion into Nasdaq indices - the next decision date (at the time of this writing) is 13 Dec 2024 for a decision on inclusion and, if included 20 Dec 2024 to rebalanace.
 - The MSTR 2x ETFs, their market cap and their reflexivity to the underlying
 
 ### Facts
@@ -103,11 +103,11 @@ Other factors to consider in the MSTR analysis -
 - "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter", Source: https://x.com/BenWerkman/status/1847368302663716965
 - The convertible bonds outperforming spot bitcoin in the first 3 quarters of 2024 which is not a thing that happens.
 
-## Interpreting the Data
+### Interpreting the Data
 
 Once you understand the strategy behind what MSTR's plan is, it's time to start interpreting all the data and you must understand how to navigate all of the relevant data points. One of the first visits an analyst should take is to the MSTR Form 8-Ks. Here you will find information regarding their "Indebtedness and Interest Expense" and "Bitcoin Holdings".
 
-## So What Are the Actual Risks?
+### So What Are the Actual Risks?
 
 Now that we understand the concepts behind the trade, what exactly are the risks? If you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine. While I do agree on the surface that there are some basic conditions that should allow this strategy to work pretty well, I do find it hard to believe that there are no risk factors and that this is an unstoppable perpetual motion machine. So, what are some of those risks?
 - Core software business threatened by AI limiting cash flow needed for debt servicing
@@ -118,11 +118,19 @@ Now that we understand the concepts behind the trade, what exactly are the risks
 - Protracted bitcoin bear market and / or adherence to the historical ABCD 4 year cycle
 - Continued muting of bitcoin volatility
 - Normal bitcoin regulatory related concerns
-- Is there a limit to the size of their holdings before the market no longer MTMs (marks-to-market) their BTC treasury?
+- Is there a limit to the size of their holdings before the market no longer MTMs (mark-to-market) their BTC treasury?
 
 All businesses have risks so this isn't any slight towards MSTR the company, but to properly assess the risk associated with the MSTR BTC Treasury strategy one must understand the risks involved. The easiest one is that the core business is threatened by AI and that AI eats into the cash flow of MSTR. A substantial decrease of their cash flow from their core business may make the 2nd risk more relevant - acting as a closed fund. The counterargument to the core business not having a substantial positive cash flow is that many believer that shareholders will raise the capital needed to meet the debt servicing obligations (which are currently in the low 10s of millions).
 
-Saylor has stated many times that his promise to investors, as well as short sellers, is that he will not sell any bitcoin through MSTR from their BTC treasury. This statement allows MSTR to act like a "closed fund" much like GBTC did before redemptions were allowed through the spot ETF conversion. 
+Saylor has stated many times that his promise to investors, as well as short sellers, is that he will not sell any bitcoin through MSTR from their BTC treasury. This statement allows MSTR to act like a "closed fund" much like GBTC did before redemptions were allowed through the spot ETF conversion. While there is tremendous upside with this promise to investors that they won't sell any bitcoin (MSTR trivia - they actually did sell BTC once on 22 Dec 2022 through Macrostrategy), this "promise" boxes MSTR into a strategy where they can never really sell a satoshi without breaking this covenant. Now, MSTR bulls will counter that this will be an extremely easy bar to clear as there is no desire among shareholders to see or force MSTR to sell a single satoshi.
+
+With the core Microstrategy business definitely on a slow downtrend (this cannot be disputed) and with the very real business damaging growth of AI around the corner, Microstrategy may face certain cash flow issues if no bitcoin lending / bank / financial services business ever develops. Saylor himself has been quoted that right now his company is making a very high RFR on his cash with just the treasury operation so there's no need for a "second great idea". If no bitcoin lending or financial services business is ever developed, MSTR's entire exposure will be to the bitcoin price and their ability to ATM, complete convertible bond issues or raise money with some other method.
+
+While Bitcoin Yield is the KPI that MSTR cares about when diluting the class A shares, there <strong>is</strong> dilution still happening on the class A shares. Saylor is already under 50% voting power even with all of his 10x Class B shares. This is covered in the section above entitled "Ownership Dilution". While Saylor has mentioned that he will still own enough class A shares that he could get a few major holders to vote with him to keep control, there is still some non-zero risk here, especially if the regulatory environment deteriorates 4 years from today (2024), where major holders of MSTR will not vote rationally and shareholders may vote for a proposal that breaks some of the assumptions mentioned above. This is likely not to be a short term problem and likely to not be a problem under the current US administration, as the dilution not only continues but accelerates, this could become an attack vector especially if there is a regime change in 2028.
+
+
+
+
 
 
 ### References
