@@ -16,6 +16,12 @@ Normal financial disclosures - this isn't financial advice and you shouldn't pur
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#what-are-the-rules-for-conversion">What Are the Rules for Conversion</a>
 5) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#where-does-the-demand-come-from-mfer---chasing-goose">Where Does the Demand Come From?</a>
 6) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#the-mstr-btc-yield-kpi">The MSTR BTC Yield KPI</a>
+7) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#mnav--should-there-be-a-premium">Should There Be A Premium</a>
+8) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#ownership-dilution">Ownership Dilution</a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#key-man-risk">Key Man Risk</a>
+9) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#miscellaneous-trivia">Miscellaneous Trivia</a>
+10) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#so-what-are-the-actual-risks">So What Are The Actual Risks</a>
+11) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#references">References</a>
 
 ## Mission Statement / General Trade Idea
 
@@ -114,10 +120,6 @@ Other factors to consider in the MSTR analysis -
 - "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter", Source: https://x.com/BenWerkman/status/1847368302663716965
 - The convertible bonds outperforming spot bitcoin in the first 3 quarters of 2024 which is not a thing that happens.
 
-## Interpreting the Data
-
-Once you understand the strategy behind what MSTR's plan is, it's time to start interpreting all the data and you must understand how to navigate all of the relevant data points. One of the first visits an analyst should take is to the MSTR Form 8-Ks. Here you will find information regarding their "Indebtedness and Interest Expense" and "Bitcoin Holdings".
-
 ## So What Are the Actual Risks?
 
 Now that we understand the concepts behind the trade, what exactly are the risks? If you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine. While I do agree on the surface that there are some basic conditions that should allow this strategy to work pretty well, I do find it hard to believe that there are no risk factors and that this is an unstoppable perpetual motion machine. So, what are some of those risks?
@@ -139,12 +141,7 @@ With the core Microstrategy business definitely on a slow downtrend (this cannot
 
 While Bitcoin Yield is the KPI that MSTR cares about when diluting the class A shares, there <strong>is</strong> dilution still happening on the class A shares. Saylor is already under 50% voting power even with all of his 10x Class B shares. This is covered in the section above entitled "Ownership Dilution". While Saylor has mentioned that he will still own enough class A shares that he could get a few major holders to vote with him to keep control, there is still some non-zero risk here, especially if the regulatory environment deteriorates 4 years from today (2024), where major holders of MSTR will not vote rationally and shareholders may vote for a proposal that breaks some of the assumptions mentioned above. This is likely not to be a short term problem and likely to not be a problem under the current US administration, as the dilution not only continues but accelerates, this could become an attack vector especially if there is a regime change in 2028.
 
-
-
-
-
-
-### References
+## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
 MSTR Financial Documents - https://www.microstrategy.com/financial-documents<br />
 MSTR-Tracker.com - https://mstr-tracker.com/<br />
