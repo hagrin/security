@@ -141,6 +141,8 @@ With the core Microstrategy business definitely on a slow downtrend (this cannot
 
 While Bitcoin Yield is the KPI that MSTR cares about when diluting the class A shares, there <strong>is</strong> dilution still happening on the class A shares. Saylor is already under 50% voting power even with all of his 10x Class B shares. This is covered in the section above entitled "Ownership Dilution". While Saylor has mentioned that he will still own enough class A shares that he could get a few major holders to vote with him to keep control, there is still some non-zero risk here, especially if the regulatory environment deteriorates 4 years from today (2024), where major holders of MSTR will not vote rationally and shareholders may vote for a proposal that breaks some of the assumptions mentioned above. This is likely not to be a short term problem and likely to not be a problem under the current US administration, as the dilution not only continues but accelerates, this could become an attack vector especially if there is a regime change in 2028.
 
+Probably one of the more underdiscussed potential risks of MSTR was a very underpromoted paper that was published by the Minneapolis Federal Reserve entitled "Unique Implementation of Permanent Primary Deficits?".
+
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
 MSTR Financial Documents - https://www.microstrategy.com/financial-documents<br />
