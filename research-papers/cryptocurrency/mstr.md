@@ -69,10 +69,6 @@ There are several rules that dictate conversion of these convertible bonds (note
 
 ## "Where Does The Demand Come From MFer" - Chasing Goose
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/56fc2563-ab2b-4cab-8181-74867b023dfa">
-</div><br />
-
 The leverage and the volatility. 
 
 Almost every MSTR analyst that leans to the bull thesis will tell you it comes from the volatility built into the instruments. However, there is also this very basic, implied belief that bitcoin, on long time horizons, will continue to go up vs the USD due to many of the same BTC bull thesis reasons (fixed supply, M1/M2 expansion, continued debasement of the currency, increased social welfare, possible strategy to inflate away the US' debt obligations, etc etc).
