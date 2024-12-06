@@ -52,7 +52,8 @@ However, ATMs might not always make sense with the bitcoin market, MSTR share, m
 
 Saylor's idea here and the mechanics are the following -
 - Issue convertible debt
-- The bond will have a "conversion rate" that will state how many class A shares someone will get per some x $ amount. Many of the MSTR convertible bonds will have a premium built in which you can determine by taking the Per $ Amount / # of class A shares received which will give you a MSTR share price which you then compare to the current market rate to figure out the premium. 
+- The bond will have a "conversion rate" that will state how many class A shares someone will get per some x $ amount. Many of the MSTR convertible bonds will have a premium built in which you can determine by taking the Per $ Amount / # of class A shares received which will give you a MSTR share price which you then compare to the current market rate to figure out the premium.
+- The more premium that is built into the bond, the less future dilution will occur, but the risk that the bond won't convert increases.
 - At the time of this issue, the conversion is accounted for immeditaely in the "Assumed Diluted Shares" or "implied outstanding shares"
 - By doing it this way, the BTC Yield KPI that MSTR uses already accounts for debt conversion and dilution
 - If conversions happen, whether due to maturity and or the execution of the several conversion rules, on these redemptions where the bond holders redeem to get their capital returned, Saylor intends to just issue more convertible debt to buy more BTC which allow him to continue to acquire more BTC.
