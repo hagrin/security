@@ -125,6 +125,7 @@ Now that we understand the concepts behind the trade, what exactly are the risks
 - Bitcoin financial services / bank / lending business never materializes
 - Continued aggressive dilution of the Common A shares opening up potential for a hostile takeover attempt
 - Minneapolis Fed paper outlining debt issuing problems when bitcoin exists in the fixed income market
+- Normal bitcoin / crypto custodial risks
 - Protracted bitcoin bear market and / or adherence to the historical ABCD 4 year cycle
 - Continued muting of bitcoin volatility
 - Normal bitcoin regulatory related concerns
@@ -144,6 +145,12 @@ Probably one of the more underdiscussed potential risks of MSTR was a very under
 ![image](https://github.com/user-attachments/assets/f03801f4-77e8-488b-9d9d-c05fb7ad72eb)
 
 Now, it's important to note that this paper was released and written before the most recent US presidential election, but even with a more pro-crypto administration, push come to shove if the Federal Government needs to slow bitcoin down in order to issue debt through taxation, then that's exactly what they will do. Remember, at the end of the day, the entire MSTR strategy is a speculative attack against the USD so there is some extreme level of penetration where the government may be forced to, at the very least, slow bitcoin down.
+
+MSTR's full custodial solution is not full known and therefore there are potentially more risks here than the market may realize. The following are Saylor's most recent comments on MSTR's custody solution and rationale for not providing Proof of Reserves -
+
+https://github.com/user-attachments/assets/aa6d7757-0b2e-4cfe-920a-a936df07a02a
+
+Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing the actual custodians could open up employees at that organization to phishing and hacking attacks where those attacks are specifically targeted using Microstrategy specific information and requests.
 
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
