@@ -15,6 +15,7 @@ DeveloperReport - https://www.developerreport.com/ - analytics on crypto develop
 Dune - https://dune.com/home<br />
 FrostyMetrics - https://frostymetrics.com/<br />
 JungleBeat - https://junglebeat.replit.app/ - App Store ranking data, Google Trends<br />
+Laevitas - https://app.laevitas.ch/assets/perpswaps/BTC/funding - good for the BTC OI Weighted Funding Rate
 MSTR Tracker - https://mstr-tracker.com/ - data relating to Microstrategy's stock, especially the NAV premium<br />
 Token Terminal - https://tokenterminal.com/terminal<br />
 Velo - https://velo.xyz/tradfi - TradFi stats, good for basis trade, CME OI<br />
