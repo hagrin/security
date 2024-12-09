@@ -168,4 +168,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 20 Nov 2024 - https://www.youtube.com/watch?v=8U1JqBQ82b4 - Very good in-depth talk about the mechanics of convertible bonds<br />
 30 Nov 2024 - https://x.com/BenWerkman/status/1862957055419834443 - Some bear cases laid out by a major MSTR bull voice<br />
 2 Dec 2024 - https://www.wsj.com/finance/investing/bitcoin-euphoria-threatens-to-break-these-etfs-eca74ca2 - Article about the risk exposure & market impacts of the MSTR 2x ETFs<br />
-7 Dec 2024 - https://open.spotify.com/episode/3kkYME9qnvPBQjLOXrU4Gl?si=026fa02ec4d44b2b - podcast addressing some of the main issues with the 2x MSTR ETFs<br />
+7 Dec 2024 - https://open.spotify.com/episode/3kkYME9qnvPBQjLOXrU4Gl - podcast addressing some of the main issues with the 2x MSTR ETFs<br />
