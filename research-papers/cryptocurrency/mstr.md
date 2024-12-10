@@ -109,7 +109,7 @@ Saylor states that he has no heirs and therefore, upon his journey to the eterna
 
 Other factors to consider in the MSTR analysis - 
 - Switch to fair value accounting (some refer to this as FASB) still pending. CFO Andrew Kang seemed to indicate on the 30 Oct 2024 Investors Call that they will be adopting FASB Q1 2025, but a bit unclear at the time of this writing.
-- Inclusion into Nasdaq indices - the next decision date (at the time of this writing) is 13 Dec 2024 for a decision on inclusion and, if included 20 Dec 2024 to rebalanace.
+- Inclusion into Nasdaq indices - the next decision date (at the time of this writing) is 13 Dec 2024 for a decision on inclusion and, if included 20 Dec 2024 to rebalanace. (Update: Likely into the Hasdaq 100 as of 10 Dec 2024).
 - The MSTR 2x ETFs, their market cap and their reflexivity to the underlying
 
 ### Facts
