@@ -152,6 +152,10 @@ https://github.com/user-attachments/assets/aa6d7757-0b2e-4cfe-920a-a936df07a02a
 
 Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing the actual custodians could open up employees at that organization to phishing and hacking attacks where those attacks are specifically targeted using Microstrategy specific information and requests. However, it's mostly idiotic to think that onchain forensics researchers don't know a very high percentage of the wallets and coins associated to MSTR. The sheer scale of MSTR's buying operation in such short timeframes makes fingerprinting their buying settlement possible (not easy, but possible). While I am unaware of a single researcher who knows all of the MSTR wallet addresses, I know several (including myself) that knows a very high % of them.
 
+## 2x MSTR ETFs & Reflexivity
+
+On top of the single equity MSTR, there are numerous 2x MSTR ETFs with the two long ETFs being MSTU and MSTX. 
+
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
 MSTR Financial Documents - https://www.microstrategy.com/financial-documents<br />
