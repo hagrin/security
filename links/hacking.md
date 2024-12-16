@@ -3,6 +3,7 @@
 ## Blue Team
 
 Logging Made Easy - https://www.cisa.gov/resources-tools/services/logging-made-easy - no-cost log management solution that empowers small to medium-sized organizations to monitor networks, identify users, and strengthen security, ultimately enhancing their overall cybersecurity posture<br />
+Security Onion - https://securityonionsolutions.com/software - includes network visibility, host visibility, intrusion detection honeypots, log management, and case management.<br />
 
 ## Debugger
 
