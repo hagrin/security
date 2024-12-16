@@ -155,7 +155,9 @@ Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing t
 
 ## 2x MSTR ETFs & Reflexivity
 
-On top of the single equity MSTR, there are numerous 2x MSTR ETFs with the two long ETFs being MSTU and MSTX. While nothing is inherently wrong with single stock 2x ETFs, at a certain scale real issues can develop with their ability to disrupt the overall market. Turns out at the time of this writing, these two MSTR 2x long ETFs have an AUM of about ~$5 billion which is an extremely significant size / scale. 
+On top of the single equity MSTR, there are numerous 2x MSTR ETFs with the two long ETFs being MSTU and MSTX. While nothing is inherently wrong with single stock 2x ETFs, at a certain scale real issues can develop with their ability to disrupt the overall market. Turns out at the time of this writing, these two MSTR 2x long ETFs have an AUM of about ~$5 billion which is an extremely significant size / scale.
+
+The general mechanic of how these 2x single equity ETFs work is that the ETF must constantly rebalance their holdings to match not only their AUM (assets under management), but also the price of the underlying equity. The way this rebalancing works is that for every $1 of total net asset value, the ETF must hold $2 worth of long exposure.
 
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
