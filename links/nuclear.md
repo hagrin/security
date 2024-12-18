@@ -14,6 +14,7 @@ Kairos Power - https://kairospower.com/ - entered into an agreement with Google 
 Oklo - https://oklo.com/ - backed by Sam Altman
 - 2024 Apr 5 - https://www.datacenterdynamics.com/en/news/equinix-signs-deal-to-procure-up-to-500mw-of-nuclear-power-from-oklo-smrs-makes-25m-pre-payment/ - Equinix signs 500MW deal with Oklo
 - 2024 Sept 26 - https://www.reuters.com/business/energy/sam-altman-backed-oklo-finalizes-site-inspection-deal-with-doe-idaho-nuclear-2024-09-25/ - Dept of Energy deal for Idaho nuclear reactor
+- 2024 Dec 18 - https://www.cnbc.com/2024/12/18/oklo-targets-12-gigawatts-of-new-nuclear-power-in-deal-with-data-center-operator.html - 12GW agreement with data center provider Switch
 
 Westinghouse - https://westinghousenuclear.com/ - founded in 1999, nuclear division of the larger Westinghouse Electric company
 - 2024 Sept 24 - https://x.com/cornoisseur/status/1838701059591598569 - Polish funding of $15.7 billion to fund country's 1st nuclear plant
