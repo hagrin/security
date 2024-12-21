@@ -117,7 +117,7 @@ Other factors to consider in the MSTR analysis -
 - "MSTR was kind enough to confirm that the 130% rule is based on a rolling 30 day period and not a fixed 30 day period in the quarter", Source: https://x.com/BenWerkman/status/1847368302663716965
 - The convertible bonds outperforming spot bitcoin in the first 3 quarters of 2024 which is not a thing that happens.
 
-## So What Are the Actual Risks?
+## So What Are the Actual (Theoretical) Risks?
 
 Now that we understand the concepts behind the trade, what exactly are the risks? If you believe many of the MSTR bulls, nothing can stop Saylor and this borders on an "infinite money glitch" where Saylor "Vampire Attacks" the USD or a perpetual motion machine. While I do agree on the surface that there are some basic conditions that should allow this strategy to work pretty well, I do find it hard to believe that there are no risk factors and that this is an unstoppable perpetual motion machine. So, what are some of those risks?
 - Core software business threatened by AI limiting cash flow needed for debt servicing
@@ -151,6 +151,10 @@ MSTR's full custodial solution is not full known and therefore there are potenti
 https://github.com/user-attachments/assets/aa6d7757-0b2e-4cfe-920a-a936df07a02a
 
 Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing the actual custodians could open up employees at that organization to phishing and hacking attacks where those attacks are specifically targeted using Microstrategy specific information and requests. However, it's mostly idiotic to think that onchain forensics researchers don't know a very high percentage of the wallets and coins associated to MSTR. The sheer scale of MSTR's buying operation in such short timeframes makes fingerprinting their buying settlement possible (not easy, but possible). While I am unaware of a single researcher who knows all of the MSTR wallet addresses, I know several (including myself) that knows a very high % of them.
+
+## "No One's Perfect" - Missteps?
+
+
 
 ## 2x MSTR ETFs & Reflexivity
 
