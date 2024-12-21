@@ -154,7 +154,7 @@ Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing t
 
 ## "No One's Perfect" - Missteps?
 
-
+In addition to the theoretical pros and cons of the investment thesis, there's also the issue of how these strategies are executed and if they have been executed optimally.
 
 ## 2x MSTR ETFs & Reflexivity
 
