@@ -152,9 +152,9 @@ https://github.com/user-attachments/assets/aa6d7757-0b2e-4cfe-920a-a936df07a02a
 
 Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing the actual custodians could open up employees at that organization to phishing and hacking attacks where those attacks are specifically targeted using Microstrategy specific information and requests. However, it's mostly idiotic to think that onchain forensics researchers don't know a very high percentage of the wallets and coins associated to MSTR. The sheer scale of MSTR's buying operation in such short timeframes makes fingerprinting their buying settlement possible (not easy, but possible). While I am unaware of a single researcher who knows all of the MSTR wallet addresses, I know several (including myself) that knows a very high % of them.
 
-## "No One's Perfect" - Missteps?
+## Execution of Strategy
 
-In addition to the theoretical pros and cons of the investment thesis, there's also the issue of how these strategies are executed and if they have been executed optimally.
+In addition to the theoretical pros and cons of the investment thesis and MSTR strategy, there's also the issue of how these strategies are executed and if they have been executed optimally. This section will mainly focus on my opinion of mistakes versus the good execution since it's rare that the good execution doesn't get reflected in the MSTR stock price. Again, these are my opinions and not facts like most of the information presented above. Additionally, my opinion holds that most of the missteps occurred in the last 2 months of 2024 where as, prior to that timeframe, MSTR executed about as flawlessly as one could have expected.
 
 ## 2x MSTR ETFs & Reflexivity
 
