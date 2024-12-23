@@ -156,6 +156,13 @@ Saylor's answer simultaneously makes a lot of sense and no sense. Yes, knowing t
 
 In addition to the theoretical pros and cons of the investment thesis and MSTR strategy, there's also the issue of how these strategies are executed and if they have been executed optimally. This section will mainly focus on my opinion of mistakes versus the good execution since it's rare that the good execution doesn't get reflected in the MSTR stock price. Again, these are my opinions and not facts like most of the information presented above. Additionally, my opinion holds that most of the missteps occurred in the last 2 months of 2024 where as, prior to that timeframe, MSTR executed about as flawlessly as one could have expected.
 
+Quickly, some of the excellent execution from MSTR would include - 
+- Moving away from any traditional debt, paying that traditional debt off and moving to raising debt through convertible bonds.
+- Performing ATMs when mNAV is extremely high - performing ATMs when mNAV is super high is the correct strategy; however, how hard you hit the ATM in these conditions is another story
+- Staggering the maturity of the convertible debt so that multiple bonds do not mature at the same time possibly causing an outsized bond repayment situation if the bonds don't convert.
+
+Some of the execution missteps, in my opinion, are the following -
+
 ## 2x MSTR ETFs & Reflexivity
 
 On top of the single equity MSTR, there are numerous 2x MSTR ETFs with the two long ETFs being MSTU and MSTX. While nothing is inherently wrong with single stock 2x ETFs, at a certain scale real issues can develop with their ability to disrupt the overall market. Turns out at the time of this writing, these two MSTR 2x long ETFs have an AUM of about ~$5 billion which is an extremely significant size / scale.
