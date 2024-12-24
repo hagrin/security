@@ -97,7 +97,11 @@ MSTR's strategy is to be accretive in terms of BTC held in the treasury per Assu
 
 https://github.com/user-attachments/assets/2eca26fa-2752-454e-bd74-edd78f2eff3a
 
-Saylor's argument basically boils down to "it's fine" and "no big deal" and that the other holders of the A shares are always in contact with people at MSTR and they understand the vision and they understand what MSTR is trying to accomplish. He also mentions that een when he dips into the 40% range that he may be able to find "2 or 3 holders to vote with him". While this may be very true, there is some non-zero risk here. On the positive side, there are some "MAD" principles here (Mutually Assured Destruction) where shareholders would destroy their own value is they ever voted to dissolve or start selling any bitcoin from the treasury - the voting to sell some part of the treasury immediately destroys the illusion of a "closed fund" which MSTR currently acts like.
+Saylor's argument basically boils down to "it's fine" and "no big deal" and that the other holders of the A shares are always in contact with people at MSTR and they understand the vision and they understand what MSTR is trying to accomplish. He also mentions that een when he dips into the 40% range that he may be able to find "2 or 3 holders to vote with him". This talking point has morphed over time where he now presents this as "the decentralization of the stock" and presents MSTR as a more "mature" company now that they have reached this stage of their bitcoin strategy.
+
+https://github.com/user-attachments/assets/9f81fe79-7a11-4166-be3a-80ff38852804
+
+While this may be very true, there is some non-zero risk here. On the positive side, there are some "MAD" principles here (Mutually Assured Destruction) where shareholders would destroy their own value is they ever voted to dissolve or start selling any bitcoin from the treasury - the voting to sell some part of the treasury immediately destroys the illusion of a "closed fund" which MSTR currently acts like.
 
 ### Key Man Risk
 
