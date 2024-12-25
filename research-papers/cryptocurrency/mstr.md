@@ -167,6 +167,9 @@ Quickly, some of the excellent execution from MSTR would include -
 - Staggering the maturity of the convertible debt so that multiple bonds do not mature at the same time possibly causing an outsized bond repayment situation if the bonds don't convert.
 
 Some of the execution missteps, in my opinion, are the following -
+- Misjudged the size of his offerings at the 30 Oct 2024 earnings call
+- Nov 2024 Convertible Bond Before the $15 billion of ATM
+- ATMing to the Destruction of Momentum
 
 ## 2x MSTR ETFs & Reflexivity
 
