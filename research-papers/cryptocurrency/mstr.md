@@ -167,7 +167,7 @@ Quickly, some of the excellent execution from MSTR would include -
 - Staggering the maturity of the convertible debt so that multiple bonds do not mature at the same time possibly causing an outsized bond repayment situation if the bonds don't convert.
 
 Some of the execution missteps, in my opinion, are the following -
-- Misjudged the size of his offerings at the 30 Oct 2024 earnings call
+- Misjudged the size of his offerings at the 30 Oct 2024 earnings call - on the 30 Oct 2024 earnings call, MSTR proposed a $42 billion over 3 years offering of new Common A shares to buy more bitcoin broken down by $21 billion in ATMs and $20 billion in convertible bonds. However, in the 7 weeks since that call, MSTR utilized ~$18 billion before the calendar even hit 2025. While MSTR was right to take advantage of the very high mNAV, MSTR clearly underestimated the market demand and their intentions which makes their massive acceleration of this offering look a little recless optically.
 - Nov 2024 Convertible Bond Before the $15 billion of ATM
 - ATMing to the Destruction of Momentum
 
