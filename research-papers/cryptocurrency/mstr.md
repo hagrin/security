@@ -168,8 +168,8 @@ Quickly, some of the excellent execution from MSTR would include -
 
 Some of the execution missteps, in my opinion, are the following -
 - Misjudged the size of his offerings at the 30 Oct 2024 earnings call - on the 30 Oct 2024 earnings call, MSTR proposed a $42 billion over 3 years offering of new Common A shares to buy more bitcoin broken down by $21 billion in ATMs and $20 billion in convertible bonds. However, in the 7 weeks since that call, MSTR utilized ~$18 billion before the calendar even hit 2025. While MSTR was right to take advantage of the very high mNAV, MSTR clearly underestimated the market demand and their intentions which makes their massive acceleration of this offering look a little recless optically.
-- Nov 2024 Convertible Bond Before the $15 billion of ATM
-- ATMing to the Destruction of Momentum
+- ATMing to the Destruction of Momentum - While absolutely very good policy to ATM when MSTR is trading at a very high mNAV or MAV Multiple, MSTR also relies on a high mNAV for their offerings to be more accretive. MSTR, the high mNAV, etc can all be summarized as a "momentum play". While there's no guarantee that a high mNAV will persist even without a very aggressive ATM, this strategy definitely lowers/lowered the probability that "higher for longer" would continue. Coupling this aggressive acceleration of ATMing with the prior point of such a wild deviation from their recently proposed offering plan, the market has not looked at the MSTR equity price favorably and the mNAV continues to fall killing all momentum.
+- Nov 2024 Convertible Structure in midst of $15 billion of ATM - 
 
 ## 2x MSTR ETFs & Reflexivity
 
