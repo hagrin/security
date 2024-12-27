@@ -169,7 +169,13 @@ Quickly, some of the excellent execution from MSTR would include -
 Some of the execution missteps, in my opinion, are the following -
 - Misjudged the size of his offerings at the 30 Oct 2024 earnings call - on the 30 Oct 2024 earnings call, MSTR proposed a $42 billion over 3 years offering of new Common A shares to buy more bitcoin broken down by $21 billion in ATMs and $20 billion in convertible bonds. However, in the 7 weeks since that call, MSTR utilized ~$18 billion before the calendar even hit 2025. While MSTR was right to take advantage of the very high mNAV, MSTR clearly underestimated the market demand and their intentions which makes their massive acceleration of this offering look a little recless optically.
 - ATMing to the Destruction of Momentum - While absolutely very good policy to ATM when MSTR is trading at a very high mNAV or MAV Multiple, MSTR also relies on a high mNAV for their offerings to be more accretive. MSTR, the high mNAV, etc can all be summarized as a "momentum play". While there's no guarantee that a high mNAV will persist even without a very aggressive ATM, this strategy definitely lowers/lowered the probability that "higher for longer" would continue. Coupling this aggressive acceleration of ATMing with the prior point of such a wild deviation from their recently proposed offering plan, the market has not looked at the MSTR equity price favorably and the mNAV continues to fall killing all momentum.
-- Nov 2024 Convertible Structure in midst of $15 billion of ATM - 
+- Nov 2024 Convertible Structure in midst of $15 billion of ATM -
+
+In addition to the execution of their strategy, there's also just the basic execution of how they are purchasing in the market. Here's Saylor's own words on how they are purchasing BTC -
+
+https://github.com/user-attachments/assets/6b783ffd-38d0-4a66-a508-0887da46234d
+
+Quite frankly, while I believe that they are likely performing some basic WAP strategy, I do not believe him that he has no influence on price and many sophisticated traders know exactly the things to look for to know when MSTR is being overly aggressive in the market. It's virtually impossible, with the size he was transacting with in Nov/Dec 2024, to not influence the price and he absolutely was. Conversely, when the buying slowed down at the end of Dec 2024, the disappearance of the MSTR bid was also noticeable to sophisticated traders as well as the top tier chain forensics researchers.
 
 ## 2x MSTR ETFs & Reflexivity
 
@@ -195,3 +201,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 2 Dec 2024 - https://www.wsj.com/finance/investing/bitcoin-euphoria-threatens-to-break-these-etfs-eca74ca2 - Article about the risk exposure & market impacts of the MSTR 2x ETFs<br />
 5 Dec 2024 - https://elmwealth.com/microstrategy-bitcoin/ - "Moonshot or Shooting Star? A Volatile Mix of MicroStrategy, 2x Leveraged ETFs and Bitcoin"<br />
 7 Dec 2024 - https://open.spotify.com/episode/3kkYME9qnvPBQjLOXrU4Gl - podcast addressing some of the main issues with the 2x MSTR ETFs<br />
+18 Dec 2024 - https://x.com/saylor/status/1869435430275527029 - @ 7:50 talks about how they are purchasing bitcoin / execution<br />
