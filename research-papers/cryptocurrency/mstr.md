@@ -204,5 +204,6 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 30 Nov 2024 - https://x.com/BenWerkman/status/1862957055419834443 - Some bear cases laid out by a major MSTR bull voice<br />
 2 Dec 2024 - https://www.wsj.com/finance/investing/bitcoin-euphoria-threatens-to-break-these-etfs-eca74ca2 - Article about the risk exposure & market impacts of the MSTR 2x ETFs<br />
 5 Dec 2024 - https://elmwealth.com/microstrategy-bitcoin/ - "Moonshot or Shooting Star? A Volatile Mix of MicroStrategy, 2x Leveraged ETFs and Bitcoin"<br />
+6 Dec 2024 - https://medium.com/@bdratings/all-your-models-are-destroyed-the-rise-and-future-fall-of-microstrategy-5916dd3c0021 - A 61(!) minute read on many of the bear arguments on MSTR (I personally don't agree with a good chunk of the analysis especially as it relates to the the gamma and delta hedging the bond holders are likely doing, think there are more lucrative strategies than being fully delta neutral)<br/>
 7 Dec 2024 - https://open.spotify.com/episode/3kkYME9qnvPBQjLOXrU4Gl - podcast addressing some of the main issues with the 2x MSTR ETFs<br />
 18 Dec 2024 - https://x.com/saylor/status/1869435430275527029 - @ 7:50 talks about how they are purchasing bitcoin / execution<br />
