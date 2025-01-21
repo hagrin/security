@@ -72,7 +72,7 @@ What about from the convertible bond buyer's perspective?
 
 
 
-### What are the Rules for Conversion
+### What are the Rules for Conversion (In Progress)
 
 There are several rules that dictate conversion of these convertible bonds (note, these are the rules that are currently being used, they may use different rules in the future) - 
 - The 130% Rule - 
