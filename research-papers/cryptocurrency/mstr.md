@@ -216,3 +216,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 18 Dec 2024 - https://x.com/saylor/status/1869435430275527029 - @ 7:50 talks about how they are purchasing bitcoin / execution<br />
 3 Jan 2025 - https://www.microstrategy.com/press/microstrategy-to-target-a-capital-raise-of-up-to-2-billion-of-preferred-stock_01-03-2025 - Announcement of a new offering lever, perpetual preferred stock<br />
 17 Jan 2025 - https://x.com/BenWerkman/status/1880082713287565451 - Long post about the Perpetual Preferred Offering<br />
+28 Jan 2025 - https://x.com/BenWerkman/status/1884326906574876795 - Long post about $STRK<br />
