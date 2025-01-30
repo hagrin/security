@@ -57,6 +57,8 @@ However, ATMs might not always make sense with the bitcoin market, MSTR share, m
 
 The perpetual preferred stock offerings were devised not only to access more dark parts of the fixed income market, but also probably out of necessity. MSTR's ATM bonanza in Nov-Dec 2024 saw a lot of immediate dilution along with mNAV premium destruction which made MSTR a far inferior hold to bitcoin during this time. MSTR is a momentum driven investment and the aggressive ATMing was destroying MSTR investor momentum so a new offering needed to be devised that not only could access certain capital, but delay dilution while still buying BTC at accretive amounts.
 
+![image](https://github.com/user-attachments/assets/de6e5f1a-9705-4149-9a56-aa3fa15e2fb9)
+
 ## Convertible Debt Concepts & Conversion Rules
 
 Saylor's idea here and the mechanics are the following -
