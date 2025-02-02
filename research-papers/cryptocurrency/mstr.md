@@ -97,7 +97,7 @@ While not a new concept, the Bitcoin Yield KPI first started appearing in earnes
 
 BTC Yield = Total Bitcoin Holdings / Assumed Diluted Shares Outstanding
 
-First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 Sept 2024 8-K form, this is defined as "<i>Assumed Diluted Shares Outstanding refers to the aggregate of our actual shares of common stock outstanding as of the end of each period plus all additional shares that would result from the assumed conversion of all outstanding convertible notes, exercise of all outstanding stock option awards, and settlement of all outstanding restricted stock units and performance stock units</i>".
+First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 Sept 2024 8-K form, this is defined as "<i>Assumed Diluted Shares Outstanding refers to the aggregate of our actual shares of common stock outstanding as of the end of each period plus all additional shares that would result from the assumed conversion of all outstanding convertible notes, exercise of all outstanding stock option awards, and settlement of all outstanding restricted stock units and performance stock units</i>". Under the ATM and convertible bond offering strategies, this was a very easy number to calculate. However, as $STRK scales up and the dividend obligations get larger, there is a potential that BTC Yield KPI will have to be "massaged" around dividend payment time especially if Common A shares are used to pay the dividend.
 
 ## mNAV & "Should There Be A Premium?"
 
