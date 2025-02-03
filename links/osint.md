@@ -9,7 +9,7 @@ osintui - https://github.com/wssheldon/osintui - Open Source Intelligence Termin
 ## Geolocation
 
 Bellingcat ShadowFinder - https://github.com/bellingcat/ShadowFinder - use shadows in photos to geolocate if you know time of photo<br />
-GeoSpy - https://geospy.ai/ - ($$$)
+GeoSpy - https://geospy.ai/ - ($$$)<br />
 Overpass Turbo - https://overpass-turbo.eu/ - can write scripts against Open Street Map data<br />
 
 ## Reverse Image Search
