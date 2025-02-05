@@ -64,6 +64,7 @@ https://treasuries.bitbo.io/#public<br />
 ### Ethereum
 
 ETH ETF Flow Data - https://farside.co.uk/?p=1518<br />
+UltraSound.Money - https://ultrasound.money/ - has the best ETH Supply since the 1559 merge chart<br />
 
 #### NFTs
 
