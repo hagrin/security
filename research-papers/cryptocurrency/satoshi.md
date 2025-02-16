@@ -65,6 +65,10 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
 ## Wei Dai
 - Pro: https://zawy1.blogspot.com/2016/05/wei-dai-is-satoshi-nakamoto.html - linguistic based analysis matching highly to Wei Dai.
 
+## Yonatan Sompolinsky
+- Pros: https://x.com/phoenix_cr47/status/1594693316624400384 - displays the technical ability
+- Cons: Almost all of the references to Yonatan are thinly veiled attempts to pump an altcoin called Kaspa (KAS)
+
 # Satoshi Facts
 
 - Key Satoshi Identity Papers
