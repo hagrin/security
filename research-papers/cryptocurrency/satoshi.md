@@ -22,6 +22,13 @@ Get absolutely rekt you freaking loser.
 - Pros:
 - Cons: https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/
 
+## Jack Dorsey
+- Pros: https://x.com/financeguy74/status/1890850549035110558
+- Cons: 
+
+## James A. Donald (may be a pseudonym)
+- Pro: https://medium.com/quantum-economics/i-know-who-satoshi-nakamoto-is-a3059ef02c34
+
 ## Len Sassaman
 - Pros:
   - https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
@@ -34,9 +41,6 @@ Get absolutely rekt you freaking loser.
 ![image](https://github.com/user-attachments/assets/f9f94798-6d1a-4b40-8501-a8195a24b349)
 ![image](https://github.com/user-attachments/assets/0700c611-bee7-40f3-9803-39ce3ce4b0df)
 ![488460964_2921c2b7ce_o](https://github.com/user-attachments/assets/7c2e4917-9fec-417a-9916-a08bfead82ff)
-
-## James A. Donald (may be a pseudonym)
-- Pro: https://medium.com/quantum-economics/i-know-who-satoshi-nakamoto-is-a3059ef02c34
 
 ## Nick Szabo
 - Pro: https://likeinamirror.wordpress.com/2013/12/01/satoshi-nakamoto-is-probably-nick-szabo/
