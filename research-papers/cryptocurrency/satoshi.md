@@ -78,3 +78,8 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
 - The "Benelux" Reference - The 2nd reference in the Bitcoin Whitepaper references the "20th Symposium on Information Theory in the Benelux, May 1999". This reference has been highlighted by many as a key Satoshi identifier because 1) the book was allegedly only made available online starting 2020 and 2) printed copies were only made available to symposium participants and stored in university libraries. Many notable cryptographers / cypherpunks studied there. 
 - Friends list from P2P Foundation hosted on ning.com
 ![image](https://github.com/user-attachments/assets/14e2a630-65aa-43ea-be4f-ce26f26fee8e)
+- HSI agent Rana Saoud claims at a session that was recorded at The OffshoreAlert Conference on Financial Intelligence & Investigations on April 29, 2019 in Miami Beach, Florida that an HSI agent flew to California to meet with Satoshi.
+https://github.com/user-attachments/assets/47f03322-2db9-46c1-80dd-fce973f47e4e
+
+
+
