@@ -77,7 +77,7 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
   - satoshi@vistomail.com
   - satoshin@gmx.net
   - satoshin@gmx.com (which was likely compromised / hacked)
-- Possible IP used from California - https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/
+- Possible IP used from California - https://whoissatoshi.wordpress.com/2016/02/20/satoshi-in-california/ (Archive Link - https://archive.is/3ZMRZ )
   - This is debated by Gmax here - https://news.ycombinator.com/item?id=41794080
 - The "Benelux" Reference - The 2nd reference in the Bitcoin Whitepaper references the "20th Symposium on Information Theory in the Benelux, May 1999". This reference has been highlighted by many as a key Satoshi identifier because 1) the book was allegedly only made available online starting 2020 and 2) printed copies were only made available to symposium participants and stored in university libraries. Many notable cryptographers / cypherpunks studied there. 
 - Friends list from P2P Foundation hosted on ning.com
