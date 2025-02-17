@@ -27,3 +27,15 @@ BuiltWith - https://builtwith.com/ - Technology used on site<br />
 CompleteDNS - https://completedns.com/ - Research domain nameserver changes and drops ($$$)<br />
 ViewNDS.info - https://viewdns.info/dnsreport/ - DNS / IP history for a website, has Reverse Whois (has many other tools)<br />
 WHOXY - https://www.whoxy.com/ - Domain Search Engine (very basic info)<br />
+
+
+# Techniques
+
+This is going to be an evolving write-up, I will store it down here for now, but this will get broken out to a more official document later.
+
+## Recon
+
+* Combing through data breaches to take control of email accounts
+* Combing through LinkedIn for corporate structure and potential attack list
+* Confirming emails exist for a service both through the reset password functions as well as the register new account function
+* If Gmail breached, log into Gmail then go to password.google.com to see what passwords the user has saved and what sites they are using
