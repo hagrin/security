@@ -43,6 +43,11 @@ From inside the browser chrome://net-export/ or edge://net-export/ - will save c
 Burp - https://portswigger.net/burp/communitydownload - Community Edition is free, there are paid versions that do much more<br />
 Fiddler - https://www.telerik.com/fiddler<br />
 
+## Scanner
+
+Shodan.io - https://www.shodan.io/ - Internet scanner<br />
+URLScan.io - https://urlscan.io/<br />
+
 ## Tools
 
 Flipper Zero - https://flipperzero.one/<br />
