@@ -31,6 +31,7 @@ Get absolutely rekt you freaking loser.
 
 ## Len Sassaman
 - Pros:
+  - https://arxiv.org/pdf/2206.10257 - "Satoshi Nakamoto and the Origins of Bitcoin – The Profile of a 1-in-a-Billion Genius"
   - https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
   - A picture attributed to Len has been widely attributed as evidence due to him having a copy of a symposium book. However, as counterevidence, the book on the picture's shelf is of the 23rd Symposium in 2002 and not the 20th Symposium from 1999. Due to the nature that many top cypherpunks would have had access to these texts over the 9 year period, I hardly count this as definitive evidence of anything. 
 - Cons: Article leaves out all the evidence that doesn't point to Len including many tweets that were very critical of bitcoin. Article states that the laptops were inaccessible, there's contrary evidence that his wife Meredith was able to go through his laptops and no Satoshi evidence was found. This is disputed as there's evidence his data was encrypted with FileVault.
