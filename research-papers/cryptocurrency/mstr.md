@@ -194,7 +194,7 @@ https://github.com/user-attachments/assets/6b783ffd-38d0-4a66-a508-0887da46234d
 
 Quite frankly, while I believe that they are likely performing some basic WAP strategy, I do not believe him that he has no influence on price and many sophisticated traders know exactly the things to look for to know when MSTR is being overly aggressive in the market. It's virtually impossible, with the size he was transacting with in Nov/Dec 2024, to not influence the price and he absolutely was. Conversely, when the buying slowed down at the end of Dec 2024, the disappearance of the MSTR bid was also noticeable to sophisticated traders as well as the top tier chain forensics researchers.
 
-## 2x MSTR ETFs & Reflexivity
+## 2x MSTR ETFs & Reflexivity (In Progress)
 
 On top of the single equity MSTR, there are numerous 2x MSTR ETFs with the two long ETFs being MSTU and MSTX. While nothing is inherently wrong with single stock 2x ETFs, at a certain scale real issues can develop with their ability to disrupt the overall market. Turns out at the time of this writing, these two MSTR 2x long ETFs have an AUM of about ~$5 billion which is an extremely significant size / scale.
 
