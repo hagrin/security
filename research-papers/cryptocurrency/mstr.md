@@ -83,7 +83,7 @@ What about from the convertible bond buyer's perspective?
 There are several rules that dictate conversion of these convertible bonds (note, these are the rules that are currently being used, they may use different rules in the future) - 
 - The 130% Rule - 
 
-## "Where Does The Demand Come From MFer" - Chasing Goose
+## "Where Does The Demand Come From MFer" - Chasing Goose (In Progress)
 
 The leverage and the volatility. 
 
