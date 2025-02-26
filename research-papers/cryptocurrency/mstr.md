@@ -23,6 +23,7 @@ Normal financial disclosures - this isn't financial advice and you shouldn't pur
 10) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#so-what-are-the-actual-risks">So What Are The Actual Risks</a>
 11) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#execution-of-strategy">Execution of Strategy</a>
 12) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#2x-mstr-etfs--reflexivity">2x MSTR ETFs & Reflexivity</a>
+13) <a href="">26 February 2025 Update - "What Needs to Change?"</a>
 13) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#references">References</a>
 
 ## Mission Statement / General Trade Idea
@@ -199,6 +200,14 @@ Quite frankly, while I believe that they are likely performing some basic WAP st
 On top of the single equity MSTR, there are numerous 2x MSTR ETFs with the two long ETFs being MSTU and MSTX. While nothing is inherently wrong with single stock 2x ETFs, at a certain scale real issues can develop with their ability to disrupt the overall market. Turns out at the time of this writing, these two MSTR 2x long ETFs have an AUM of about ~$5 billion which is an extremely significant size / scale.
 
 The general mechanic of how these 2x single equity ETFs work is that the ETF must constantly rebalance their holdings to match not only their AUM (assets under management), but also the price of the underlying equity. The way this rebalancing works is that for every $1 of total net asset value, the ETF must hold $2 worth of long exposure.
+
+## 26 February 2025 Update - "What Needs to Change?"
+
+Update - 26 February 2025 - Since most of the above analysis has played out successfully and is likely nearing some type of conclusion now that the MSTR offering spree is severely slowing down, it's key to identify the items that will break this negative momentum and change the course of MSTR's performance vs BTC. Right now MSTR's mNAV is getting obliterated which means MSTR is severely undperforming just buying BTC or one of the spot ETFs. MSTR will remain an unattractive buy until the mNAV approaches 1 or some of the following chages - 
+* Changes in the tax code to benefit MSTR in the US
+* Changes in regulation that benefit MSTR in the US
+* An actual cohesive plan and actual buying for some type of SBR (Strategic Bitcoin Reserve)
+* MSTR figures out a way to generate yield on their holdings which can only sit idle in cold storage
 
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
