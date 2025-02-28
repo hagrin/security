@@ -209,7 +209,7 @@ Update - 26 February 2025 - Since most of the above analysis has played out succ
 * An actual cohesive plan and actual buying for some type of SBR (Strategic Bitcoin Reserve)
 * MSTR figures out a way to generate yield on their holdings which can only sit idle in cold storage / custodial vaults
 
-The TLDR here is easy - MSTR is a momentum based equity and right now the momentum is picking up speed in the wrong direction. MSTR will need something significant to happen in the above action items to turn around the momentum or mNAV is heading for 1 or, even worse, negative.
+The TLDR here is easy - MSTR is a momentum based equity and right now the momentum is picking up speed in the wrong direction. MSTR will need something significant to happen in the above action items to turn around the momentum or mNAV is heading for 1 or, even worse, negative. Otherwise, even with BTC price appreciation, there is now a higher probability that MSTR might underperform BTC and the mNAV just continues to deteriorate. Even with a BTC price appreciation from this date, there is a significant increase in probability that MSTR is no longer a beta BTC play.
 
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
