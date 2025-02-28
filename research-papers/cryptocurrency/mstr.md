@@ -207,7 +207,9 @@ Update - 26 February 2025 - Since most of the above analysis has played out succ
 * Changes in the tax code to benefit MSTR in the US
 * Changes in regulation that benefit MSTR in the US
 * An actual cohesive plan and actual buying for some type of SBR (Strategic Bitcoin Reserve)
-* MSTR figures out a way to generate yield on their holdings which can only sit idle in cold storage
+* MSTR figures out a way to generate yield on their holdings which can only sit idle in cold storage / custodial vaults
+
+The TLDR here is easy - MSTR is a momentum based equity and right now the momentum is picking up speed in the wrong direction. MSTR will need something significant to happen in the above action items to turn around the momentum or mNAV is heading for 1 or, even worse, negative.
 
 ## References
 Bitcoin Treasuries - https://treasuries.bitbo.io/microstrategy/<br />
