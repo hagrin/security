@@ -24,7 +24,7 @@ Get absolutely rekt you freaking loser.
 
 ## Jack Dorsey
 - Pros: https://x.com/financeguy74/status/1890850549035110558
-- Cons: Pete Rizzo and Jameson Lopp did a podcast where Lopp took it upon himself to try and "disprove the negative". Satoshi, who seems very strongly linked to the Pacific Time Zone, is almost definitely not bicoastal and Jack at the time was bicoastal as he was running 2 large companies at the time. A temporal analysis of Jack's tweets show this phenomenon where there's no adherence to the Pacific Time Zone. Jack also has very public meetings with government officials pr public presentations that correspond during Satoshi actions which should make him being Satoshi very unlikely.
+- Cons: https://blog.lopp.net/jack-dorsey-is-not-satoshi-nakamoto/ - Pete Rizzo and Jameson Lopp did a podcast where Lopp took it upon himself to try and "disprove the negative". Satoshi, who seems very strongly linked to the Pacific Time Zone, is almost definitely not bicoastal and Jack at the time was bicoastal as he was running 2 large companies at the time. A temporal analysis of Jack's tweets show this phenomenon where there's no adherence to the Pacific Time Zone. Jack also has very public meetings with government officials pr public presentations that correspond during Satoshi actions which should make him being Satoshi very unlikely.
 
 ## James A. Donald (may be a pseudonym)
 - Pro: https://medium.com/quantum-economics/i-know-who-satoshi-nakamoto-is-a3059ef02c34
