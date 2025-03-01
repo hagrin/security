@@ -102,9 +102,9 @@ First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 
 
 ## mNAV & "Should There Be A Premium?"
 
-In Progress - Geographic regulatory arbitrage, tax differences vs buying spot BTC
-Ex: Metaplanet - Marginal tax on crypto gains is treated like misc income in Japan so can be taxed up to 55%, but listed securities are 20%
-Ex: MSTR in the UK - ban on Bitcoin ETPs drives investment into MSTR
+In Progress - Geographic regulatory arbitrage, tax differences vs buying spot BTC<br />
+Ex: Metaplanet - Marginal tax on crypto gains is treated like misc income in Japan so can be taxed up to 55%, but listed securities are 20%<br />
+Ex: MSTR in the UK - ban on Bitcoin ETPs drives investment into MSTR<br />
 
 ## Ownership Dilution
 
