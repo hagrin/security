@@ -104,6 +104,7 @@ First, how are "Assumed Diluted Shares Outstanding" defined? Accoring to the 13 
 
 In Progress - Geographic regulatory arbitrage, tax differences vs buying spot BTC
 Ex: Metaplanet - Marginal tax on crypto gains is treated like misc income in Japan so can be taxed up to 55%, but listed securities are 20%
+Ex: MSTR in the UK - ban on Bitcoin ETPs drives investment into MSTR
 
 ## Ownership Dilution
 
@@ -234,3 +235,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 3 Jan 2025 - https://www.microstrategy.com/press/microstrategy-to-target-a-capital-raise-of-up-to-2-billion-of-preferred-stock_01-03-2025 - Announcement of a new offering lever, perpetual preferred stock<br />
 17 Jan 2025 - https://x.com/BenWerkman/status/1880082713287565451 - Long post about the Perpetual Preferred Offering<br />
 28 Jan 2025 - https://x.com/BenWerkman/status/1884326906574876795 - Long post about $STRK<br />
+1 Mar 2025 - https://x.com/BitMEXResearch/status/1895906845488734328 - Reminder that UK demand is driven by a ban on Bitcoin ETPs<br />
