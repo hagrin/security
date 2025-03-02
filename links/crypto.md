@@ -64,6 +64,7 @@ https://treasuries.bitbo.io/#public<br />
 ### Ethereum
 
 ETH ETF Flow Data - https://farside.co.uk/?p=1518<br />
+HyperDash - https://hyperdash.info/trader/ - append the wallet address (can find the big ones on the leaderboard) for better viz into the top HL traders<br />
 UltraSound.Money - https://ultrasound.money/ - has the best ETH Supply since the 1559 merge chart<br />
 Walletbeat - https://beta.walletbeat.eth.limo/ - a very new wallet tracker<br />
 
