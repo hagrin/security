@@ -88,6 +88,12 @@ There are several rules that dictate conversion of these convertible bonds (note
 
 The leverage and the volatility. 
 
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/77fc345e-22f4-4593-958d-bfc273edc60d)
+
+</div>
+
 Almost every MSTR analyst that leans to the bull thesis will tell you it comes from the volatility built into the instruments. However, there is also this very basic, implied belief that bitcoin, on long time horizons, will continue to go up vs the USD due to many of the same BTC bull thesis reasons (fixed supply, M2 expansion, continued debasement of the currency, increased social welfare, possible strategy to inflate away the US' debt obligations, etc etc).
 
 ## The MSTR BTC Yield KPI
