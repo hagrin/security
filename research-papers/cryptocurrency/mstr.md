@@ -243,3 +243,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 28 Jan 2025 - https://x.com/BenWerkman/status/1884326906574876795 - Long post about $STRK<br />
 1 Mar 2025 - https://x.com/BitMEXResearch/status/1895906845488734328 - Reminder that UK demand is driven by a ban on Bitcoin ETPs<br />
 10 March 2025 - https://www.strategy.com/press/strategy-announces-21-billion-strk-at-the-market-program_03-10-2025 - Strategy announces $21 billion $STRK program<br />
+13 March 2025 - https://x.com/PunterJeff/status/1900075202115231761 - some basics with an easy to understand viz on what the convertible bond traders are doing<br />
