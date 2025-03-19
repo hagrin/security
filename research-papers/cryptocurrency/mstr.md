@@ -45,6 +45,7 @@ MSTR has several levers to use or raise funds to buy more BTC for their treasury
 - Convertible debt - long-term bonds with the option to convert into shares at certain prices, MSTR's have been issued at a low interest rate redeemable at ~30-40% above the current MSTR price, but governed by conversion rules and time tables.
 - Equity / ATM ("At-the-Market") equity offerings - selling shares of the equity into the market to raise capital
 - Perpetual Preferred Stock - Ticker $STRK, an 8.00% Series A Perpetual Strike Preferred Stock - the concept behind this lever is that it removes the maturity date that the convertible bonds have, it pushes out the dilution as opposed to the ATM strategy, but it does pay a dividend which will require some type of cash flow (the first offering has an 8% dividend payable in cash or Common A shares).
+- Perpetual Preferred Stock - Ticker $STRF - a 10.00% per annum dividend that is to be paid solely in cash.
 
 The ATM equity offerings are particularly interesting here the MSTR ATM deviates from the traditional ATM narrative. For most traditional companies, when you do ATMs, you're usually raising capital for either CapEx (capital expenditures) or OpEx (operational expenditures) with the purpose of keeping the company moving forward, but while diluting current shareholders. With the MSTR shareholders, these ATM raises are being used to add to the BTC treasury so while the # of outstanding shares goes up and dilutes stock holders in a "their holdings"/"total shares" sense, MSTR attempts to not dilute these holders in the "BTC per outstanding share" sense. The key phrase here that you will hear is that the MSTR ATM offerings are "accretive" to shareholders due to this BTC/share ratio (or as MSTR calls it, their BTC Yield) going up.
 
@@ -244,3 +245,4 @@ MSTR-Tracker.com - https://mstr-tracker.com/<br />
 1 Mar 2025 - https://x.com/BitMEXResearch/status/1895906845488734328 - Reminder that UK demand is driven by a ban on Bitcoin ETPs<br />
 10 March 2025 - https://www.strategy.com/press/strategy-announces-21-billion-strk-at-the-market-program_03-10-2025 - Strategy announces $21 billion $STRK program<br />
 13 March 2025 - https://x.com/PunterJeff/status/1900075202115231761 - some basics with an easy to understand viz on what the convertible bond traders are doing<br />
+18 March 2025 - https://www.strategy.com/press/strategy-announces-proposed-strf-preferred-stock-offering_03-18-2025 - Strategy Announces $STRF offering<br />
