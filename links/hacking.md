@@ -11,6 +11,7 @@ Data Extractor - https://www.acelab.eu.com/catalog/ - Hardware and software solu
 
 ## Debugger
 
+Binary Ninja - https://binary.ninja/<br />
 dnSpy - https://github.com/dnSpy/dnSpy - .Net debugger and editor<br />
 LLDB Debugger - https://lldb.llvm.org/<br />
 x64dbg - https://x64dbg.com/<br />
