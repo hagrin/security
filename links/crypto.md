@@ -45,6 +45,10 @@ Solidus Labs - https://www.soliduslabs.com/<br />
 Scorechain - https://www.scorechain.com/<br />
 TRM Labs<br />
 
+## Mining
+
+Stratum.work - https://stratum.work/<br />
+
 ## Ordinals
 
 Magic Eden - https://magiceden.us/<br />
