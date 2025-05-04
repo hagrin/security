@@ -35,6 +35,7 @@ OKX<br />
 ## Forensics
 
 Bitfury Crystal - https://lite.crystalintelligence.com/ - Crystal Lite<br />
+Bithypha - https://bithypha.com/osint - BitcoinTalk OSINT<br />
 BlockTrace - https://www.blocktrace.com/<br />
 DMG Blockchain Solutions (was previously better known as BlockSeer) - https://dmgblockchain.com/blockseer-2/<br />
 Chainalysis Reactor<br />
