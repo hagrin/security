@@ -20,7 +20,7 @@ Get absolutely rekt you freaking loser.
 
 ## Hal Finney
 - Pros:
-- Cons: https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/
+- Cons: https://blog.lopp.net/hal-finney-was-not-satoshi-nakamoto/ or the video version https://www.youtube.com/watch?v=b7etnRAOm5A
 
 ## Jack Dorsey
 - Pros: https://x.com/financeguy74/status/1890850549035110558
