@@ -52,6 +52,8 @@ Get absolutely rekt you freaking loser.
 - Cons: The paper describes a system that is more similar to David Chaum's prior attempt than it does bitcoin. 
 
 ## Paul Le Roux
+- Pros: Creator of E4M, a free encryption tool so technically proficient. Ended up running a global narcotics op so possible need for a digital global currency to settle his core business. One of his aliases used was "Paul Solotshi Calder Le Roux" which some see as similar to Satoshi. 
+- Cons: Coding style doesn't match at all. Demeanor doesn't match at all. 
 
 ## Peter Todd
 
