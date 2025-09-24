@@ -24,7 +24,8 @@ Normal financial disclosures - this isn't financial advice and you shouldn't pur
 11) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#execution-of-strategy">Execution of Strategy</a>
 12) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#2x-mstr-etfs--reflexivity-in-progress">2x MSTR ETFs & Reflexivity</a>
 13) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#26-february-2025-update---what-needs-to-change">26 February 2025 Update - "What Needs to Change?"</a>
-13) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#references">References</a>
+14) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#22-september-2025---spaceballs-2-the-search-for-more-yield">22 September 2025 Update - "Spaceballs 2: The Search for More Yield</a>
+15) <a href="https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/mstr.md#references">References</a>
 
 ## Mission Statement / General Trade Idea
 
