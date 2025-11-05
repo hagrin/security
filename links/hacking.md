@@ -3,6 +3,7 @@
 ## Blue Team
 
 Logging Made Easy - https://www.cisa.gov/resources-tools/services/logging-made-easy - no-cost log management solution that empowers small to medium-sized organizations to monitor networks, identify users, and strengthen security, ultimately enhancing their overall cybersecurity posture<br />
+NetVisor - https://github.com/mayanayza/netvisor - NetVisor scans your network, identifies hosts and services, and generates an interactive visualization showing how everything connects, letting you easily create and maintain network documentation.<br />
 Security Onion - https://securityonionsolutions.com/software - includes network visibility, host visibility, intrusion detection honeypots, log management, and case management.<br />
 
 ## Data Recovery
