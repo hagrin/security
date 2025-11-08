@@ -4,6 +4,7 @@
 
 Bitbo - https://bitbo.io/ - Bitcoin stats (basic / quick)<br />
 Bitcoin Snippets - https://bitcoinsnippets.com/ - a good timeline of events<br />
+Bitnod.es - https://bitnod.es/ - Bitcoin node count<br />
 Bold Report - https://bold.report/bitcoin/fund-flows - BTC ETF Flows Data (more summarized than Farside)<br />
 Farside - https://farside.co.uk/btc/ - BTC ETF flows<br />
 mempool.space - https://mempool.space/ - BTC mempool visualizer<br />
