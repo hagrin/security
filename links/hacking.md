@@ -36,6 +36,12 @@ ImHex - https://github.com/WerWolv/ImHex<br />
 
 Octoplus - https://octoplusbox.com/en/products/dongle/ - ($$$) decoding mobile devices, dongles<br />
 
+## Network Analyzers
+
+TCPDump<br />
+TShark<br />
+Wireshark<br />
+
 ## Password Cracking
 
 Hashcat - https://hashcat.net/hashcat/<br />
