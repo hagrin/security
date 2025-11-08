@@ -49,6 +49,7 @@ MSTR has several levers to use or raise funds to buy more BTC for their treasury
 - Perpetual Preferred Stock - Ticker $STRF - a 10.00% per annum dividend that is to be paid solely in cash.
 - $STRC
 - $STRD
+- $STRE
 
 The ATM equity offerings are particularly interesting here the MSTR ATM deviates from the traditional ATM narrative. For most traditional companies, when you do ATMs, you're usually raising capital for either CapEx (capital expenditures) or OpEx (operational expenditures) with the purpose of keeping the company moving forward, but while diluting current shareholders. With the MSTR shareholders, these ATM raises are being used to add to the BTC treasury so while the # of outstanding shares goes up and dilutes stock holders in a "their holdings"/"total shares" sense, MSTR attempts to not dilute these holders in the "BTC per outstanding share" sense. The key phrase here that you will hear is that the MSTR ATM offerings are "accretive" to shareholders due to this BTC/share ratio (or as MSTR calls it, their BTC Yield) going up.
 
