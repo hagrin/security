@@ -54,6 +54,7 @@ Fiddler - https://www.telerik.com/fiddler<br />
 
 ## Scanner
 
+Cloudflare Radar - https://radar.cloudflare.com/<br />
 Shodan.io - https://www.shodan.io/ - Internet scanner<br />
 URLScan.io - https://urlscan.io/<br />
 
