@@ -40,9 +40,7 @@ Operation Shadow Web - International multi-agency takedown of Russian carding ri
 
 "Introduction cell attacks" - https://darknetlive.com/post/hugbunter-posted-an-update-about-dread-availability/
 
-https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
-
-<br /><br/>
+https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df<br/>
 
 <img width="602" height="168" alt="image" src="https://github.com/user-attachments/assets/55002b3c-5b06-442a-9a67-222b754655ca" />
 
