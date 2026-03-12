@@ -42,5 +42,6 @@ Operation Shadow Web - International multi-agency takedown of Russian carding ri
 
 https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df
 
+
 <img width="602" height="168" alt="image" src="https://github.com/user-attachments/assets/55002b3c-5b06-442a-9a67-222b754655ca" />
 
