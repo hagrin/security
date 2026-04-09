@@ -89,5 +89,8 @@ Source: https://lists.ibiblio.org/sympa/arc/bluesky/2001-03/msg00063.html
 
 https://github.com/user-attachments/assets/47f03322-2db9-46c1-80dd-fce973f47e4e
 
+- C++ code characteristics -
+- <img width="596" height="681" alt="image" src="https://github.com/user-attachments/assets/9a30b8cb-8cd7-4da2-9ab5-6cfd96149a8a" />
+- <img width="602" height="382" alt="image" src="https://github.com/user-attachments/assets/0c1c1d51-3e60-42f8-b79a-14c14697973b" />
 
 
