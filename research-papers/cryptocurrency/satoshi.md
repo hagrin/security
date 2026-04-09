@@ -3,7 +3,7 @@
 Rumored potential Satoshis. This list isn't meant to be all encompassing, but maintained because I get this question a lot. The candidates are listed in some alphabetical order. While I understand the fascination with trying to figure out who Satoshi is, understand that by publishing anything saying "X person is Satoshi" puts that person and their family in physical danger. You should use extreme caution before publishing anything that attempts to definitively identify Satoshi's identity.<br />
 
 ## Adam Back
-- Pro: https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html?unlocked_article_code=1.ZVA.5_s8.hTKeCkV97kow&smid=tw-share
+- Pro: https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html?unlocked_article_code=1.ZVA.5_s8.hTKeCkV97kow&smid=tw-share<br />
 Haven't read it but apparently Jens Ducree's book https://www.amazon.com/Satoshi-Nakamoto-Origins-Bitcoin-technology-ebook/dp/B0C8BLPX83/ makes the argument Back is most likely
 - Cons: At the Craig Wright trial, Adam submitted his correspondence with Satoshi into evidence - a total of 5 emails, Satoshi engaging Adam regarding a citation of his Hashcash paper and then some discussion about alternate whitepapers and the bitcoin whitepaper.
 
