@@ -8,6 +8,8 @@ Haven't read it but apparently Jens Ducree's book https://www.amazon.com/Satoshi
 - Cons: At the Craig Wright trial, Adam submitted his correspondence with Satoshi into evidence - a total of 5 emails, Satoshi engaging Adam regarding a citation of his Hashcash paper and then some discussion about alternate whitepapers and the bitcoin whitepaper.
 
 ![image](https://github.com/user-attachments/assets/a47987ec-e683-4bc2-b662-77ce888b9e22)
+<img width="597" height="347" alt="image" src="https://github.com/user-attachments/assets/c5be02fc-18d0-4891-adb4-c98b4988fdef" />
+
 
 ## Craig Wright
 
