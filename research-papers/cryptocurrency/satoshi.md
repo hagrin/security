@@ -71,6 +71,7 @@ Get absolutely rekt you freaking loser.
 - Pros: Creator of E4M, a free encryption tool so technically proficient (however there is a dispute that this code was stolen from SecurStar). Ended up running a global narcotics op so possible need for a digital global currency to settle his core business. One of his aliases used was "Paul Solotshi Calder Le Roux" which some see as similar to Satoshi. A book was written about this theory - https://www.amazon.com/Satoshi-Enigma-Search-Bitcoins-Creator/dp/1912029960 . 
 - Cons: Coding style doesn't match at all. Demeanor doesn't match at all. Le Roux himself denied writing TrueCrypt in a court hearing which may have been stolen code from SecurStar.
   - Attempted misdirection by signing messages from very old wallets claiming Le Roux was Satoshi. This is covered extensively on Martin Shkreli's blog where he, incorrectly, gets duped into thinking that the message was created by Hal Finney since it was from one of his known wallets. Source - https://martinshkreli.substack.com/p/paul-le-roux-is-satoshi/comments#comment-11131926
+- Fun Trivia: https://www.wired.com/story/mastermind-excerpt/ - for some background information
  
 <img width="756" height="1019" alt="image" src="https://github.com/user-attachments/assets/5e256f6f-4606-409b-8708-13e67d043bd4" />
 
