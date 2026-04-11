@@ -62,11 +62,18 @@ Get absolutely rekt you freaking loser.
 
 ## NSA
 - Pro: The main crux of the NSA theory comes from the publishing of the 1996 paper "How to Make a Mint: The Cryptography of Anonymous Electronic Cash" which you can read here - https://github.com/hagrin/security/blob/master/research-papers/cryptocurrency/1996-Cryptography-Anonymous-Cash.pdf
-- Cons: The paper describes a system that is more similar to David Chaum's prior attempt than it does bitcoin. 
+- Cons: The paper describes a system that is more similar to David Chaum's prior attempt than it does bitcoin.
+
+<img width="601" height="138" alt="image" src="https://github.com/user-attachments/assets/dc0eb083-a745-4d48-b8fd-13a38b4a3deb" />
+
 
 ## Paul Le Roux
-- Pros: Creator of E4M, a free encryption tool so technically proficient. Ended up running a global narcotics op so possible need for a digital global currency to settle his core business. One of his aliases used was "Paul Solotshi Calder Le Roux" which some see as similar to Satoshi. 
-- Cons: Coding style doesn't match at all. Demeanor doesn't match at all. 
+- Pros: Creator of E4M, a free encryption tool so technically proficient (however there is a dispute that this code was stolen from SecurStar). Ended up running a global narcotics op so possible need for a digital global currency to settle his core business. One of his aliases used was "Paul Solotshi Calder Le Roux" which some see as similar to Satoshi. A book was written about this theory - https://www.amazon.com/Satoshi-Enigma-Search-Bitcoins-Creator/dp/1912029960 . 
+- Cons: Coding style doesn't match at all. Demeanor doesn't match at all. Le Roux himself denied writing TrueCrypt in a court hearing which may have been stolen code from SecurStar.
+  - Attempted misdirection by signing messages from very old wallets claiming Le Roux was Satoshi. This is covered extensively on Martin Shkreli's blog where he, incorrectly, gets duped into thinking that the message was created by Hal Finney since it was from one of his known wallets. Source - https://martinshkreli.substack.com/p/paul-le-roux-is-satoshi/comments#comment-11131926
+ 
+<img width="756" height="1019" alt="image" src="https://github.com/user-attachments/assets/5e256f6f-4606-409b-8708-13e67d043bd4" />
+
 
 ## Peter Todd
 
