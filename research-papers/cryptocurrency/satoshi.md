@@ -19,6 +19,14 @@ Get absolutely rekt you freaking loser.
 
 ![image](https://github.com/user-attachments/assets/eb328f86-db0b-4179-94dc-bc04f650e4ef)
 
+## David Kleiman
+
+- Pro: Really none other than statements and misinformation pushed by CSW post-Kleiman's death. 
+- Cons: There is almost no evidence that he could program in any meaningful way especially C++. Kleiman was a government computer forensics expert, but not a programmer - basically a glorified sysadmin cop. As S-doc, he was more of a supervisory role and not that of a programmer. Source: https://www.reddit.com/r/btc/comments/4hx0tv/comment/d2tbtk2/ . Also fails temporal analysis as well as anything resembling a match to any of the strong data points pointing back to Satoshi.
+- Fun Trivia - Was involved with the 2009 Jeffrey Epstein digital forensics investigation.
+
+<img width="584" height="527" alt="image" src="https://github.com/user-attachments/assets/84a47e82-3008-48de-aa03-62a6ef12f7d8" />
+
 ## Dustin D. Trammell
 
 - Cons: https://blog.dustintrammell.com/i-am-not-satoshi/ - written by himself where you can download his email correspondence with Satoshi. Dustin also debunks a flawed research paper written out of the Weizmann Institute of Science in Israel.
